@@ -1,6972 +1,2594 @@
 [
   {
-    "internalName": "GYM_ElecPanda_Otomo",
-    "displayName": "Zoe & Grizzbolt (Gym)",
-    "wikiSlug": "Zoe_&_Grizzbolt_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "GYM_BlackGriffon",
-    "displayName": "Victor & Shadowbeak (Gym)",
-    "wikiSlug": "Victor_&_Shadowbeak_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "GYM_BlackGriffon_2",
-    "displayName": "Victor & Shadowbeak (Gym)",
-    "wikiSlug": "Victor_&_Shadowbeak_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "GYM_BlackGriffon_2_Avatar",
-    "displayName": "Victor & Shadowbeak (Gym)",
-    "wikiSlug": "Victor_&_Shadowbeak_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "GYM_ElecPanda",
-    "displayName": "Zoe & Grizzbolt (Gym)",
-    "wikiSlug": "Zoe_&_Grizzbolt_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "GYM_ElecPanda_2",
-    "displayName": "Zoe & Grizzbolt (Gym)",
-    "wikiSlug": "Zoe_&_Grizzbolt_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "GYM_Horus",
-    "displayName": "Marcus & Faleris (Gym)",
-    "wikiSlug": "Marcus_&_Faleris_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "GYM_Horus_2",
-    "displayName": "Marcus & Faleris (Gym)",
-    "wikiSlug": "Marcus_&_Faleris_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "GYM_LilyQueen",
-    "displayName": "Lily & Lyleen (Gym)",
-    "wikiSlug": "Lily_&_Lyleen_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "GYM_LilyQueen_2",
-    "displayName": "Lily & Lyleen (Gym)",
-    "wikiSlug": "Lily_&_Lyleen_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "GYM_MoonQueen",
-    "displayName": "Saya & Selyne (Gym)",
-    "wikiSlug": "Saya_&_Selyne_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "GYM_MoonQueen_2",
-    "displayName": "Saya & Selyne (Gym)",
-    "wikiSlug": "Saya_&_Selyne_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "GYM_MoonQueen_2_Servant",
-    "displayName": "Selyne (Gym)",
-    "wikiSlug": "Selyne_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "GYM_SnowTigerBeastman",
-    "displayName": "Bjorn & Bastigor (Gym)",
-    "wikiSlug": "Bjorn_&_Bastigor_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "GYM_SnowTigerBeastman_2",
-    "displayName": "Bjorn & Bastigor (Gym)",
-    "wikiSlug": "Bjorn_&_Bastigor_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "GYM_ThunderDragonMan",
-    "displayName": "Axel & Orserk (Gym)",
-    "wikiSlug": "Axel_&_Orserk_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "GYM_ThunderDragonMan_2",
-    "displayName": "Axel & Orserk (Gym)",
-    "wikiSlug": "Axel_&_Orserk_(Gym)",
-    "paldex": -2,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "Boss_Anubis",
-    "displayName": "Anubis",
-    "wikiSlug": "Anubis",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "DarkMutant",
-    "displayName": "Dark Mutant",
-    "wikiSlug": "Dark_Mutant",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "ElecLion",
-    "displayName": "Boltmane",
-    "wikiSlug": "Boltmane",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "PinkKangaroo",
-    "displayName": "Pink Kangaroo",
-    "wikiSlug": "Pink_Kangaroo",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "YakushimaBoss001",
-    "displayName": "Eye of Cthulhu",
-    "wikiSlug": "Eye_of_Cthulhu",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "YakushimaBoss001_Small",
-    "displayName": "Demon Eye",
-    "wikiSlug": "Demon_Eye",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001",
-    "displayName": "Green Slime",
-    "wikiSlug": "Green_Slime",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001_Blue",
-    "displayName": "Blue Slime",
-    "wikiSlug": "Blue_Slime",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001_Pink",
-    "displayName": "Illuminant Slime",
-    "wikiSlug": "Illuminant_Slime",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001_Purple",
-    "displayName": "Purple Slime",
-    "wikiSlug": "Purple_Slime",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001_Rainbow",
-    "displayName": "Rainbow Slime",
-    "wikiSlug": "Rainbow_Slime",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster001_Red",
-    "displayName": "Red Slime",
-    "wikiSlug": "Red_Slime",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster002",
-    "displayName": "Enchanted Sword",
-    "wikiSlug": "Enchanted_Sword",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster003",
-    "displayName": "Cave Bat",
-    "wikiSlug": "Cave_Bat",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "YakushimaMonster003_Purple",
-    "displayName": "Illuminant Bat",
-    "wikiSlug": "Illuminant_Bat",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "AmaterasuWolf_Dark_Quest_Enemy",
-    "displayName": "Kitsun Noct",
-    "wikiSlug": "Kitsun_Noct",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "AmaterasuWolf_Dark_Quest_Friend",
-    "displayName": "Kitsun Noct",
-    "wikiSlug": "Kitsun_Noct",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "ArmorWoodlouse",
-    "displayName": "Armor Woodlouse",
-    "wikiSlug": "Armor_Woodlouse",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Alpaca",
-    "displayName": "Melpaca (Boss)",
-    "wikiSlug": "Melpaca_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_AmaterasuWolf",
-    "displayName": "Kitsun (Boss)",
-    "wikiSlug": "Kitsun_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_AmaterasuWolf_Dark",
-    "displayName": "Kitsun Noct (Boss)",
-    "wikiSlug": "Kitsun_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_ArmorWoodlouse",
-    "displayName": "Armor Woodlouse (Boss)",
-    "wikiSlug": "Armor_Woodlouse_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_BadCatgirl",
-    "displayName": "Nyafia (Boss)",
-    "wikiSlug": "Nyafia_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Baphomet",
-    "displayName": "Incineram (Boss)",
-    "wikiSlug": "Incineram_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Baphomet_Dark",
-    "displayName": "Incineram Noct (Boss)",
-    "wikiSlug": "Incineram_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Bastet",
-    "displayName": "Mau (Boss)",
-    "wikiSlug": "Mau_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Bastet_Ice",
-    "displayName": "Mau Cryst (Boss)",
-    "wikiSlug": "Mau_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_BeardedDragon",
-    "displayName": "Bearded Dragon (Boss)",
-    "wikiSlug": "Bearded_Dragon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_BerryGoat",
-    "displayName": "Caprity (Boss)",
-    "wikiSlug": "Caprity_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_BerryGoat_Dark",
-    "displayName": "Caprity Noct (Boss)",
-    "wikiSlug": "Caprity_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BirdDragon",
-    "displayName": "Vanwyrm (Boss)",
-    "wikiSlug": "Vanwyrm_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BirdDragon_Ice",
-    "displayName": "Vanwyrm Cryst (Boss)",
-    "wikiSlug": "Vanwyrm_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackCentaur",
-    "displayName": "Necromus (Boss)",
-    "wikiSlug": "Necromus_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackFurDragon",
-    "displayName": "Dragostrophe (Boss)",
-    "wikiSlug": "Dragostrophe_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackGriffon",
-    "displayName": "Shadowbeak (Boss)",
-    "wikiSlug": "Shadowbeak_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackGriffon_BossRush",
-    "displayName": "Shadowbeak (Boss)",
-    "wikiSlug": "Shadowbeak_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackMetalDragon",
-    "displayName": "Astegon (Boss)",
-    "wikiSlug": "Astegon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackPuppy",
-    "displayName": "Smokie (Boss)",
-    "wikiSlug": "Smokie_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlackPuppy_Ice",
-    "displayName": "Smokie Cryst (Boss)",
-    "wikiSlug": "Smokie_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueDragon",
-    "displayName": "Azurobe (Boss)",
-    "wikiSlug": "Azurobe_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueDragon_Ice",
-    "displayName": "Azurobe Cryst (Boss)",
-    "wikiSlug": "Azurobe_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_BluePlatypus",
-    "displayName": "Fuack (Boss)",
-    "wikiSlug": "Fuack_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_BluePlatypus_Fire",
-    "displayName": "Fuack Ignis (Boss)",
-    "wikiSlug": "Fuack_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueSkyDragon",
-    "displayName": "Shaolong (Boss)",
-    "wikiSlug": "Shaolong_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueSkyDragon_BossRush",
-    "displayName": "Shaolong (Boss)",
-    "wikiSlug": "Shaolong_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueThunderHorse",
-    "displayName": "Azurmane (Boss)",
-    "wikiSlug": "Azurmane_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueWoolRabbit",
-    "displayName": "Blue Wool Rabbit (Boss)",
-    "wikiSlug": "Blue_Wool_Rabbit_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_BlueberryFairy",
-    "displayName": "Prunelia (Boss)",
-    "wikiSlug": "Prunelia_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Boar",
-    "displayName": "Rushoar (Boss)",
-    "wikiSlug": "Rushoar_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_BrownRabbit",
-    "displayName": "Lapiron (Boss)",
-    "wikiSlug": "Lapiron_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_CactusDoll",
-    "displayName": "Needoll (Boss)",
-    "wikiSlug": "Needoll_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_CactusDoll_Dark",
-    "displayName": "Needoll Noct (Boss)",
-    "wikiSlug": "Needoll_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_CandleGhost",
-    "displayName": "Sootseer (Boss)",
-    "wikiSlug": "Sootseer_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_CandleWitch",
-    "displayName": "Candle Witch (Boss)",
-    "wikiSlug": "Candle_Witch_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_CaptainPenguin",
-    "displayName": "Penking (Boss)",
-    "wikiSlug": "Penking_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_CaptainPenguin_Black",
-    "displayName": "Penking Lux (Boss)",
-    "wikiSlug": "Penking_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_Carbunclo",
-    "displayName": "Lifmunk (Boss)",
-    "wikiSlug": "Lifmunk_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_CatBat",
-    "displayName": "Tombat (Boss)",
-    "wikiSlug": "Tombat_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_CatMage",
-    "displayName": "Katress (Boss)",
-    "wikiSlug": "Katress_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_CatMage_Fire",
-    "displayName": "Katress Ignis (Boss)",
-    "wikiSlug": "Katress_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_CatVampire",
-    "displayName": "Felbat (Boss)",
-    "wikiSlug": "Felbat_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_ChickenPal",
-    "displayName": "Chikipi (Boss)",
-    "wikiSlug": "Chikipi_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_ClioneTwins",
-    "displayName": "Amione (Boss)",
-    "wikiSlug": "Amione_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_CloverFairy",
-    "displayName": "Clovee (Boss)",
-    "wikiSlug": "Clovee_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_ClownRabbit",
-    "displayName": "Dupin (Boss)",
-    "wikiSlug": "Dupin_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_ColorfulBird",
-    "displayName": "Tocotoco (Boss)",
-    "wikiSlug": "Tocotoco_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_CowPal",
-    "displayName": "Mozzarina (Boss)",
-    "wikiSlug": "Mozzarina_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_CubeTurtle",
-    "displayName": "Tetroise  (Boss)",
-    "wikiSlug": "Tetroise_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_CubeTurtle_Neutral",
-    "displayName": "Tetroise Primo (Boss)",
-    "wikiSlug": "Tetroise_Primo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_CuteButterfly",
-    "displayName": "Cinnamoth (Boss)",
-    "wikiSlug": "Cinnamoth_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_CuteFox",
-    "displayName": "Vixy (Boss)",
-    "wikiSlug": "Vixy_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_CuteMole",
-    "displayName": "Fuddler (Boss)",
-    "wikiSlug": "Fuddler_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_CuteOrca",
-    "displayName": "Cute Orca (Boss)",
-    "wikiSlug": "Cute_Orca_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_DandelionGirl",
-    "displayName": "Souffline (Boss)",
-    "wikiSlug": "Souffline_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkAlien",
-    "displayName": "Xenovader (Boss)",
-    "wikiSlug": "Xenovader_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkCrow",
-    "displayName": "Cawgnito (Boss)",
-    "wikiSlug": "Cawgnito_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkFlameFox",
-    "displayName": "Majex (Boss)",
-    "wikiSlug": "Majex_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkMechaDragon",
-    "displayName": "Xenolord (Boss)",
-    "wikiSlug": "Xenolord_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkMutant",
-    "displayName": "Dark Mutant (Boss)",
-    "wikiSlug": "Dark_Mutant_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkScorpion",
-    "displayName": "Menasting (Boss)",
-    "wikiSlug": "Menasting_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_DarkScorpion_Ground",
-    "displayName": "Menasting Terra (Boss)",
-    "wikiSlug": "Menasting_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Deer",
-    "displayName": "Eikthyrdeer (Boss)",
-    "wikiSlug": "Eikthyrdeer_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_Deer_Ground",
-    "displayName": "Eikthyrdeer Terra (Boss)",
-    "wikiSlug": "Eikthyrdeer_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_DomeArmorDragon",
-    "displayName": "Aegidron (Boss)",
-    "wikiSlug": "Aegidron_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_DreamDemon",
-    "displayName": "Daedream (Boss)",
-    "wikiSlug": "Daedream_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_DrillGame",
-    "displayName": "Digtoise (Boss)",
-    "wikiSlug": "Digtoise_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Eagle",
-    "displayName": "Galeclaw (Boss)",
-    "wikiSlug": "Galeclaw_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecCat",
-    "displayName": "Sparkit (Boss)",
-    "wikiSlug": "Sparkit_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecLion",
-    "displayName": "Boltmane (Boss)",
-    "wikiSlug": "Boltmane_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecLizard",
-    "displayName": "Slowatt (Boss)",
-    "wikiSlug": "Slowatt_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecPanda",
-    "displayName": "Grizzbolt (Boss)",
-    "wikiSlug": "Grizzbolt_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecPanda_BossRush",
-    "displayName": "Grizzbolt (Boss)",
-    "wikiSlug": "Grizzbolt_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecPomeranian",
-    "displayName": "Puffolt (Boss)",
-    "wikiSlug": "Puffolt_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecSnail",
-    "displayName": "Snock (Boss)",
-    "wikiSlug": "Snock_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecSnail_Fire",
-    "displayName": "Elec Snail Fire (Boss)",
-    "wikiSlug": "Elec_Snail_Fire_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_ElecSnail_Ground",
-    "displayName": "Snock Lux (Boss)",
-    "wikiSlug": "Snock_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_FairyDragon",
-    "displayName": "Elphidran (Boss)",
-    "wikiSlug": "Elphidran_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_FairyDragon_Water",
-    "displayName": "Elphidran Aqua (Boss)",
-    "wikiSlug": "Elphidran_Aqua_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_FeatherOstrich",
-    "displayName": "Dazemu (Boss)",
-    "wikiSlug": "Dazemu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_FengyunDeeper",
-    "displayName": "Fenglope (Boss)",
-    "wikiSlug": "Fenglope_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_FengyunDeeper_Electric",
-    "displayName": "Fenglope Lux (Boss)",
-    "wikiSlug": "Fenglope_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_FireKirin",
-    "displayName": "Pyrin (Boss)",
-    "wikiSlug": "Pyrin_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FireKirin_Dark",
-    "displayName": "Pyrin Noct (Boss)",
-    "wikiSlug": "Pyrin_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlameBambi",
-    "displayName": "Rooby (Boss)",
-    "wikiSlug": "Rooby_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlameBuffalo",
-    "displayName": "Arsox (Boss)",
-    "wikiSlug": "Arsox_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerDinosaur",
-    "displayName": "Dinossom (Boss)",
-    "wikiSlug": "Dinossom_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerDinosaur_Electric",
-    "displayName": "Dinossom Lux (Boss)",
-    "wikiSlug": "Dinossom_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerDoll",
-    "displayName": "Petallia (Boss)",
-    "wikiSlug": "Petallia_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerDoll_Fire",
-    "displayName": "Petallia Ignis (Boss)",
-    "wikiSlug": "Petallia_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerPrince",
-    "displayName": "Dandilord (Boss)",
-    "wikiSlug": "Dandilord_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlowerRabbit",
-    "displayName": "Flopie (Boss)",
-    "wikiSlug": "Flopie_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_FluffyBird",
-    "displayName": "Muffly (Boss)",
-    "wikiSlug": "Muffly_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlyingManta",
-    "displayName": "Celaray (Boss)",
-    "wikiSlug": "Celaray_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_FlyingManta_Thunder",
-    "displayName": "Celaray Lux (Boss)",
-    "wikiSlug": "Celaray_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_FoxExorcist",
-    "displayName": "Flaracle (Boss)",
-    "wikiSlug": "Flaracle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FoxMage",
-    "displayName": "Wixen (Boss)",
-    "wikiSlug": "Wixen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_FoxMage_Dark",
-    "displayName": "Wixen Noct (Boss)",
-    "wikiSlug": "Wixen_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_FrozenBear",
-    "displayName": "Frozen Bear (Boss)",
-    "wikiSlug": "Frozen_Bear_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_Ganesha",
-    "displayName": "Teafant (Boss)",
-    "wikiSlug": "Teafant_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Garm",
-    "displayName": "Direhowl (Boss)",
-    "wikiSlug": "Direhowl_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostAnglerfish",
-    "displayName": "Ghangler (Boss)",
-    "wikiSlug": "Ghangler_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostAnglerfish_Fire",
-    "displayName": "Ghangler Ignis (Boss)",
-    "wikiSlug": "Ghangler_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostBeast",
-    "displayName": "Maraith (Boss)",
-    "wikiSlug": "Maraith_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostBlackCat",
-    "displayName": "Wispaw (Boss)",
-    "wikiSlug": "Wispaw_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostDragon",
-    "displayName": "Eidrolon (Boss)",
-    "wikiSlug": "Eidrolon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostDragon_Fire",
-    "displayName": "Eidrolon Ignis (Boss)",
-    "wikiSlug": "Eidrolon_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostRabbit",
-    "displayName": "Nitemary (Boss)",
-    "wikiSlug": "Nitemary_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GhostRabbit_Grass",
-    "displayName": "Nitemary Botan (Boss)",
-    "wikiSlug": "Nitemary_Botan_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GoldenHorse",
-    "displayName": "Gildane (Boss)",
-    "wikiSlug": "Gildane_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Gorilla",
-    "displayName": "Gorirat (Boss)",
-    "wikiSlug": "Gorirat_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_Gorilla_Ground",
-    "displayName": "Gorirat Terra (Boss)",
-    "wikiSlug": "Gorirat_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassDragon",
-    "displayName": "Grass Dragon (Boss)",
-    "wikiSlug": "Grass_Dragon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassGolem",
-    "displayName": "Dualith (Boss)",
-    "wikiSlug": "Dualith_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassGolem_Dark",
-    "displayName": "Dualith Noct (Boss)",
-    "wikiSlug": "Dualith_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassMammoth",
-    "displayName": "Mammorest (Boss)",
-    "wikiSlug": "Mammorest_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassMammoth_Ice",
-    "displayName": "Mammorest Cryst (Boss)",
-    "wikiSlug": "Mammorest_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassMinotaur",
-    "displayName": "Elgrove (Boss)",
-    "wikiSlug": "Elgrove_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassMinotaur_Ice",
-    "displayName": "Elgrove Cryst (Boss)",
-    "wikiSlug": "Elgrove_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassPanda",
-    "displayName": "Mossanda (Boss)",
-    "wikiSlug": "Mossanda_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassPanda_Electric",
-    "displayName": "Mossanda Lux (Boss)",
-    "wikiSlug": "Mossanda_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrassRabbitMan",
-    "displayName": "Verdash (Boss)",
-    "wikiSlug": "Verdash_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_GrimGirl",
-    "displayName": "Splatterina (Boss)",
-    "wikiSlug": "Splatterina_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_GuardianDog",
-    "displayName": "Yakumo (Boss)",
-    "wikiSlug": "Yakumo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_HadesBird",
-    "displayName": "Helzephyr (Boss)",
-    "wikiSlug": "Helzephyr_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_HadesBird_Electric",
-    "displayName": "Helzephyr Lux (Boss)",
-    "wikiSlug": "Helzephyr_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_HawkBird",
-    "displayName": "Nitewing (Boss)",
-    "wikiSlug": "Nitewing_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_Hedgehog",
-    "displayName": "Jolthog (Boss)",
-    "wikiSlug": "Jolthog_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_Hedgehog_Ice",
-    "displayName": "Jolthog Cryst (Boss)",
-    "wikiSlug": "Jolthog_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_HerculesBeetle",
-    "displayName": "Warsect (Boss)",
-    "wikiSlug": "Warsect_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_HerculesBeetle_Ground",
-    "displayName": "Warsect Terra (Boss)",
-    "wikiSlug": "Warsect_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_HoodGhost",
-    "displayName": "Hoodle (Boss)",
-    "wikiSlug": "Hoodle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Horus",
-    "displayName": "Faleris (Boss)",
-    "wikiSlug": "Faleris_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Horus_BossRush",
-    "displayName": "Faleris (Boss)",
-    "wikiSlug": "Faleris_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Horus_Water",
-    "displayName": "Faleris Aqua (Boss)",
-    "wikiSlug": "Faleris_Aqua_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceCrocodile",
-    "displayName": "Munchill (Boss)",
-    "wikiSlug": "Munchill_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceDeer",
-    "displayName": "Reindrix (Boss)",
-    "wikiSlug": "Reindrix_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceFox",
-    "displayName": "Foxcicle (Boss)",
-    "wikiSlug": "Foxcicle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceHorse",
-    "displayName": "Frostallion (Boss)",
-    "wikiSlug": "Frostallion_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceHorse_Dark",
-    "displayName": "Frostallion Noct (Boss)",
-    "wikiSlug": "Frostallion_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceNarwhal",
-    "displayName": "Whalaska (Boss)",
-    "wikiSlug": "Whalaska_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceNarwhal_Fire",
-    "displayName": "Whalaska Ignis (Boss)",
-    "wikiSlug": "Whalaska_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceSeal",
-    "displayName": "Polapup (Boss)",
-    "wikiSlug": "Polapup_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceSeal_Ground",
-    "displayName": "Polapup Terra (Boss)",
-    "wikiSlug": "Polapup_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceVeilDragon",
-    "displayName": "Ice Veil Dragon (Boss)",
-    "wikiSlug": "Ice_Veil_Dragon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_IceWitch",
-    "displayName": "Icelyn (Boss)",
-    "wikiSlug": "Icelyn_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_JellyfishFairy",
-    "displayName": "Jelliette (Boss)",
-    "wikiSlug": "Jelliette_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_JellyfishGhost",
-    "displayName": "Jellroy (Boss)",
-    "wikiSlug": "Jellroy_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_JetDragon",
-    "displayName": "Jetragon (Boss)",
-    "wikiSlug": "Jetragon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_KabukiMan",
-    "displayName": "Renjishi (Boss)",
-    "wikiSlug": "Renjishi_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kelpie",
-    "displayName": "Kelpsea (Boss)",
-    "wikiSlug": "Kelpsea_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kelpie_Fire",
-    "displayName": "Kelpsea Ignis (Boss)",
-    "wikiSlug": "Kelpsea_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_KendoFrog",
-    "displayName": "Croajiro (Boss)",
-    "wikiSlug": "Croajiro_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_KendoFrog_Dark",
-    "displayName": "Croajiro Noct (Boss)",
-    "wikiSlug": "Croajiro_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingAlpaca",
-    "displayName": "Kingpaca (Boss)",
-    "wikiSlug": "Kingpaca_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingAlpaca_Ice",
-    "displayName": "Kingpaca Cryst (Boss)",
-    "wikiSlug": "Kingpaca_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingBahamut",
-    "displayName": "Blazamut (Boss)",
-    "wikiSlug": "Blazamut_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingBahamut_Dragon",
-    "displayName": "Blazamut Ryu (Boss)",
-    "wikiSlug": "Blazamut_Ryu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingCrab",
-    "displayName": "King Crab (Boss)",
-    "wikiSlug": "King_Crab_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingSunfish",
-    "displayName": "Solmora (Boss)",
-    "wikiSlug": "Solmora_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingSunfish_Thunder",
-    "displayName": "Solmora Lux (Boss)",
-    "wikiSlug": "Solmora_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingWhale",
-    "displayName": "Panthalus (Boss)",
-    "wikiSlug": "Panthalus_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_KingWhale_otomo",
-    "displayName": "Panthalus (Boss)",
-    "wikiSlug": "Panthalus_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kirin",
-    "displayName": "Univolt (Boss)",
-    "wikiSlug": "Univolt_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kirin_Ice",
-    "displayName": "Univolt Cryst (Boss)",
-    "wikiSlug": "Univolt_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kitsunebi",
-    "displayName": "Foxparks (Boss)",
-    "wikiSlug": "Foxparks_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Kitsunebi_Ice",
-    "displayName": "Foxparks Cryst (Boss)",
-    "wikiSlug": "Foxparks_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_LanternButler",
-    "displayName": "Loomen (Boss)",
-    "wikiSlug": "Loomen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_LavaGirl",
-    "displayName": "Flambelle (Boss)",
-    "wikiSlug": "Flambelle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_LazyCatfish",
-    "displayName": "Dumud (Boss)",
-    "wikiSlug": "Dumud_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_LazyCatfish_Gold",
-    "displayName": "Dumud Gild (Boss)",
-    "wikiSlug": "Dumud_Gild_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_LazyDragon",
-    "displayName": "Relaxaurus (Boss)",
-    "wikiSlug": "Relaxaurus_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_LazyDragon_Electric",
-    "displayName": "Relaxaurus Lux (Boss)",
-    "wikiSlug": "Relaxaurus_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_LeafBird",
-    "displayName": "Leaf Bird (Boss)",
-    "wikiSlug": "Leaf_Bird_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_LeafMomonga",
-    "displayName": "Herbil (Boss)",
-    "wikiSlug": "Herbil_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_LeafPrincess",
-    "displayName": "Lullu (Boss)",
-    "wikiSlug": "Lullu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_LegendDeer",
-    "displayName": "Hartalis (Boss)",
-    "wikiSlug": "Hartalis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_LilyQueen",
-    "displayName": "Lyleen (Boss)",
-    "wikiSlug": "Lyleen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_LilyQueen_BossRush",
-    "displayName": "Lyleen (Boss)",
-    "wikiSlug": "Lyleen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_LilyQueen_Dark",
-    "displayName": "Lyleen Noct (Boss)",
-    "wikiSlug": "Lyleen_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_LittleBriarRose",
-    "displayName": "Bristla (Boss)",
-    "wikiSlug": "Bristla_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_LizardMan",
-    "displayName": "Leezpunk (Boss)",
-    "wikiSlug": "Leezpunk_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_LizardMan_Fire",
-    "displayName": "Leezpunk Ignis (Boss)",
-    "wikiSlug": "Leezpunk_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_LongCat",
-    "displayName": "Valentail (Boss)",
-    "wikiSlug": "Valentail_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_LotusDragon",
-    "displayName": "Ophydia (Boss)",
-    "wikiSlug": "Ophydia_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Manticore",
-    "displayName": "Blazehowl (Boss)",
-    "wikiSlug": "Blazehowl_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Manticore_Dark",
-    "displayName": "Blazehowl Noct (Boss)",
-    "wikiSlug": "Blazehowl_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_MedjedBird",
-    "displayName": "Medjed Bird (Boss)",
-    "wikiSlug": "Medjed_Bird_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_MexicanSalamander",
-    "displayName": "Mexican Salamander (Boss)",
-    "wikiSlug": "Mexican_Salamander_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_MimicDog",
-    "displayName": "Mimog (Boss)",
-    "wikiSlug": "Mimog_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_Monkey",
-    "displayName": "Tanzee (Boss)",
-    "wikiSlug": "Tanzee_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_Monkey_Fire",
-    "displayName": "Tanzee Ignis (Boss)",
-    "wikiSlug": "Tanzee_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Monkey_Ice",
-    "displayName": "Monkey Ice (Boss)",
-    "wikiSlug": "Monkey_Ice_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_MonochromeMushroom",
-    "displayName": "Monochrome Mushroom (Boss)",
-    "wikiSlug": "Monochrome_Mushroom_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_MonochromeQueen",
-    "displayName": "Solenne (Boss)",
-    "wikiSlug": "Solenne_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_MoonChild",
-    "displayName": "Wistella (Boss)",
-    "wikiSlug": "Wistella_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_MoonQueen",
-    "displayName": "Selyne (Boss)",
-    "wikiSlug": "Selyne_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_MoonQueen_BossRush",
-    "displayName": "Selyne (Boss)",
-    "wikiSlug": "Selyne_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_MopBaby",
-    "displayName": "Swee (Boss)",
-    "wikiSlug": "Swee_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_MopKing",
-    "displayName": "Sweepa (Boss)",
-    "wikiSlug": "Sweepa_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_Mothman",
-    "displayName": "Silvance (Boss)",
-    "wikiSlug": "Silvance_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_MummyPal",
-    "displayName": "Gildra (Boss)",
-    "wikiSlug": "Gildra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_MushroomDragon",
-    "displayName": "Shroomer (Boss)",
-    "wikiSlug": "Shroomer_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_MushroomDragon_Dark",
-    "displayName": "Shroomer Noct (Boss)",
-    "wikiSlug": "Shroomer_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_MushroomLady",
-    "displayName": "Mycora (Boss)",
-    "wikiSlug": "Mycora_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_Mutant",
-    "displayName": "Lunaris (Boss)",
-    "wikiSlug": "Lunaris_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_MysteryMask",
-    "displayName": "Omascul (Boss)",
-    "wikiSlug": "Omascul_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_NaughtyCat",
-    "displayName": "Grintale (Boss)",
-    "wikiSlug": "Grintale_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_NegativeKoala",
-    "displayName": "Depresso (Boss)",
-    "wikiSlug": "Depresso_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_NegativeOctopus",
-    "displayName": "Killamari (Boss)",
-    "wikiSlug": "Killamari_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_NegativeOctopus_Neutral",
-    "displayName": "Killamari Primo (Boss)",
-    "wikiSlug": "Killamari_Primo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_NightBlueHorse",
-    "displayName": "Starryon (Boss)",
-    "wikiSlug": "Starryon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_NightBlueHorse_Neutral",
-    "displayName": "Starryon Primo (Boss)",
-    "wikiSlug": "Starryon_Primo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_NightFox",
-    "displayName": "Nox (Boss)",
-    "wikiSlug": "Nox_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_NightLady",
-    "displayName": "Bellanoir (Boss)",
-    "wikiSlug": "Bellanoir_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_NightLady_Dark",
-    "displayName": "Bellanoir Libero (Boss)",
-    "wikiSlug": "Bellanoir_Libero_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_OctopusGirl",
-    "displayName": "Gloopie (Boss)",
-    "wikiSlug": "Gloopie_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_OctopusGirl_Neutral",
-    "displayName": "Gloopie Primo (Boss)",
-    "wikiSlug": "Gloopie_Primo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_OniGhostGirl",
-    "displayName": "Bakemi (Boss)",
-    "wikiSlug": "Bakemi_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_PandaGirl",
-    "displayName": "Leafan (Boss)",
-    "wikiSlug": "Leafan_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_Penguin",
-    "displayName": "Pengullet (Boss)",
-    "wikiSlug": "Pengullet_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_Penguin_Electric",
-    "displayName": "Pengullet Lux (Boss)",
-    "wikiSlug": "Pengullet_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_PinkCat",
-    "displayName": "Cattiva (Boss)",
-    "wikiSlug": "Cattiva_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_PinkKangaroo",
-    "displayName": "Pink Kangaroo (Boss)",
-    "wikiSlug": "Pink_Kangaroo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_PinkLizard",
-    "displayName": "Lovander (Boss)",
-    "wikiSlug": "Lovander_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_PinkRabbit",
-    "displayName": "Ribbuny (Boss)",
-    "wikiSlug": "Ribbuny_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_PinkRabbit_Grass",
-    "displayName": "Ribbuny Botan (Boss)",
-    "wikiSlug": "Ribbuny_Botan_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_PlantSlime",
-    "displayName": "Gumoss (Boss)",
-    "wikiSlug": "Gumoss_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_PlantSlime_Flower",
-    "displayName": "Gumoss (Boss)",
-    "wikiSlug": "Gumoss_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Plesiosaur",
-    "displayName": "Braloha (Boss)",
-    "wikiSlug": "Braloha_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_PoseidonOrca",
-    "displayName": "Neptilius (Boss)",
-    "wikiSlug": "Neptilius_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_PurpleSpider",
-    "displayName": "Tarantriss (Boss)",
-    "wikiSlug": "Tarantriss_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_QueenBee",
-    "displayName": "Elizabee (Boss)",
-    "wikiSlug": "Elizabee_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_RaijinDaughter",
-    "displayName": "Dazzi (Boss)",
-    "wikiSlug": "Dazzi_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_RaijinDaughter_Water",
-    "displayName": "Dazzi Noct (Boss)",
-    "wikiSlug": "Dazzi_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_RedArmorBird",
-    "displayName": "Ragnahawk (Boss)",
-    "wikiSlug": "Ragnahawk_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_RedFlowerBird",
-    "displayName": "Tropicaw (Boss)",
-    "wikiSlug": "Tropicaw_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_RobinHood",
-    "displayName": "Robinquill (Boss)",
-    "wikiSlug": "Robinquill_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_RobinHood_Ground",
-    "displayName": "Robinquill Terra (Boss)",
-    "wikiSlug": "Robinquill_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_RockBeast",
-    "displayName": "Pierdon (Boss)",
-    "wikiSlug": "Pierdon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_RockBeast_Ice",
-    "displayName": "Pierdon Cryst (Boss)",
-    "wikiSlug": "Pierdon_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_RockCheetah",
-    "displayName": "Rock Cheetah (Boss)",
-    "wikiSlug": "Rock_Cheetah_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Ronin",
-    "displayName": "Bushi (Boss)",
-    "wikiSlug": "Bushi_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Ronin_Dark",
-    "displayName": "Bushi Noct (Boss)",
-    "wikiSlug": "Bushi_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_SaintCentaur",
-    "displayName": "Paladius (Boss)",
-    "wikiSlug": "Paladius_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_SakuraSaurus",
-    "displayName": "Broncherry (Boss)",
-    "wikiSlug": "Broncherry_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_SakuraSaurus_Water",
-    "displayName": "Broncherry Aqua (Boss)",
-    "wikiSlug": "Broncherry_Aqua_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_SamuraiDog",
-    "displayName": "Pupperai (Boss)",
-    "wikiSlug": "Pupperai_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_ScorpionMan",
-    "displayName": "Prixter (Boss)",
-    "wikiSlug": "Prixter_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_ScorpionMan_Electric",
-    "displayName": "Prixter Lux (Boss)",
-    "wikiSlug": "Prixter_Lux_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Sekhmet",
-    "displayName": "Sekhmet (Boss)",
-    "wikiSlug": "Sekhmet_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Serpent",
-    "displayName": "Surfent (Boss)",
-    "wikiSlug": "Surfent_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Serpent_Ground",
-    "displayName": "Surfent Terra (Boss)",
-    "wikiSlug": "Surfent_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_SharkKid",
-    "displayName": "Gobfin (Boss)",
-    "wikiSlug": "Gobfin_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_SharkKid_Fire",
-    "displayName": "Gobfin Ignis (Boss)",
-    "wikiSlug": "Gobfin_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_SheepBall",
-    "displayName": "Lamball (Boss)",
-    "wikiSlug": "Lamball_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_SifuDog",
-    "displayName": "Dogen (Boss)",
-    "wikiSlug": "Dogen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_SkyDragon",
-    "displayName": "Quivern (Boss)",
-    "wikiSlug": "Quivern_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_SkyDragon_Grass",
-    "displayName": "Quivern Botan (Boss)",
-    "wikiSlug": "Quivern_Botan_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_SleeveRabbit",
-    "displayName": "Lapure (Boss)",
-    "wikiSlug": "Lapure_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_SmallArmadillo",
-    "displayName": "Kikit (Boss)",
-    "wikiSlug": "Kikit_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_SmallYeti",
-    "displayName": "Snugloo (Boss)",
-    "wikiSlug": "Snugloo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_SnakeGirl",
-    "displayName": "Venusa (Boss)",
-    "wikiSlug": "Venusa_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_SnakeQueen",
-    "displayName": "Snake Queen (Boss)",
-    "wikiSlug": "Snake_Queen_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_SnowPeafowl",
-    "displayName": "Frostplume (Boss)",
-    "wikiSlug": "Frostplume_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_SnowTigerBeastman",
-    "displayName": "Bastigor (Boss)",
-    "wikiSlug": "Bastigor_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_SnowTigerBeastman_BossRush",
-    "displayName": "Bastigor (Boss)",
-    "wikiSlug": "Bastigor_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_SoldierBee",
-    "displayName": "Beegarde (Boss)",
-    "wikiSlug": "Beegarde_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_StrawHatCat",
-    "displayName": "Straw Hat Cat (Boss)",
-    "wikiSlug": "Straw_Hat_Cat_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_StuffedShark",
-    "displayName": "Finsider (Boss)",
-    "wikiSlug": "Finsider_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_StuffedShark_Fire",
-    "displayName": "Finsider Ignis (Boss)",
-    "wikiSlug": "Finsider_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_SumoDog",
-    "displayName": "Bulldosu (Boss)",
-    "wikiSlug": "Bulldosu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_Suzaku",
-    "displayName": "Suzaku (Boss)",
-    "wikiSlug": "Suzaku_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_Suzaku_Water",
-    "displayName": "Suzaku Aqua (Boss)",
-    "wikiSlug": "Suzaku_Aqua_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_SweetsSheep",
-    "displayName": "Woolipop (Boss)",
-    "wikiSlug": "Woolipop_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_SweetsSheep_Ground",
-    "displayName": "Woolipop Terra (Boss)",
-    "wikiSlug": "Woolipop_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_SwordCutlassfish",
-    "displayName": "Skutlass (Boss)",
-    "wikiSlug": "Skutlass_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_SwordCutlassfish_Fire",
-    "displayName": "Skutlass Ignis (Boss)",
-    "wikiSlug": "Skutlass_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_TentacleTurtle",
-    "displayName": "Turtacle (Boss)",
-    "wikiSlug": "Turtacle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_TentacleTurtle_Ground",
-    "displayName": "Turtacle Terra (Boss)",
-    "wikiSlug": "Turtacle_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThiefBird",
-    "displayName": "Roujay (Boss)",
-    "wikiSlug": "Roujay_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderBird",
-    "displayName": "Beakon (Boss)",
-    "wikiSlug": "Beakon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderBird_Ice",
-    "displayName": "Beakon Cryst (Boss)",
-    "wikiSlug": "Beakon_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderDog",
-    "displayName": "Rayhound (Boss)",
-    "wikiSlug": "Rayhound_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderDog_Ice",
-    "displayName": "Rayhound Cryst (Boss)",
-    "wikiSlug": "Rayhound_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderDragonMan",
-    "displayName": "Orserk (Boss)",
-    "wikiSlug": "Orserk_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderDragonMan_BossRush",
-    "displayName": "Orserk (Boss)",
-    "wikiSlug": "Orserk_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_ThunderFluffyBird",
-    "displayName": "Dynamoff (Boss)",
-    "wikiSlug": "Dynamoff_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "BOSS_TropicalOstrich",
-    "displayName": "Palumba (Boss)",
-    "wikiSlug": "Palumba_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_Umihebi",
-    "displayName": "Jormuntide (Boss)",
-    "wikiSlug": "Jormuntide_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "BOSS_Umihebi_Fire",
-    "displayName": "Jormuntide Ignis (Boss)",
-    "wikiSlug": "Jormuntide_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_VenusFlytrap",
-    "displayName": "Carnibora (Boss)",
-    "wikiSlug": "Carnibora_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_VioletFairy",
-    "displayName": "Vaelet (Boss)",
-    "wikiSlug": "Vaelet_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BOSS_VolcanicMonster",
-    "displayName": "Reptyro (Boss)",
-    "wikiSlug": "Reptyro_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_VolcanicMonster_Ice",
-    "displayName": "Reptyro Cryst (Boss)",
-    "wikiSlug": "Reptyro_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_VolcanicTurtle",
-    "displayName": "Volcanic Turtle (Boss)",
-    "wikiSlug": "Volcanic_Turtle_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_VolcanoDragon",
-    "displayName": "Moldron (Boss)",
-    "wikiSlug": "Moldron_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_VolcanoDragon_Ice",
-    "displayName": "Moldron Cryst (Boss)",
-    "wikiSlug": "Moldron_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_WaterLizard",
-    "displayName": "Water Lizard (Boss)",
-    "wikiSlug": "Water_Lizard_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_WeaselDragon",
-    "displayName": "Chillet (Boss)",
-    "wikiSlug": "Chillet_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_WeaselDragon_Fire",
-    "displayName": "Chillet Ignis (Boss)",
-    "wikiSlug": "Chillet_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_Werewolf",
-    "displayName": "Loupmoon (Boss)",
-    "wikiSlug": "Loupmoon_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Werewolf_Ice",
-    "displayName": "Loupmoon Cryst (Boss)",
-    "wikiSlug": "Loupmoon_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteAlienDragon",
-    "displayName": "Xenogard (Boss)",
-    "wikiSlug": "Xenogard_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteDeer",
-    "displayName": "Celesdir (Boss)",
-    "wikiSlug": "Celesdir_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteDeer_Dark",
-    "displayName": "Celesdir Noct (Boss)",
-    "wikiSlug": "Celesdir_Noct_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteMoth",
-    "displayName": "Sibelyx (Boss)",
-    "wikiSlug": "Sibelyx_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteMoth_Neutral",
-    "displayName": "Sibelyx Primo (Boss)",
-    "wikiSlug": "Sibelyx_Primo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteShieldDragon",
-    "displayName": "Silvegis (Boss)",
-    "wikiSlug": "Silvegis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteTiger",
-    "displayName": "Cryolinx (Boss)",
-    "wikiSlug": "Cryolinx_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_WhiteTiger_Ground",
-    "displayName": "Cryolinx Terra (Boss)",
-    "wikiSlug": "Cryolinx_Terra_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_WindChimes",
-    "displayName": "Hangyu (Boss)",
-    "wikiSlug": "Hangyu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_WindChimes_Ice",
-    "displayName": "Hangyu Cryst (Boss)",
-    "wikiSlug": "Hangyu_Cryst_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_WingGolem",
-    "displayName": "Knocklem (Boss)",
-    "wikiSlug": "Knocklem_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "BOSS_WingGolem_Fire",
-    "displayName": "Knocklem Ignis (Boss)",
-    "wikiSlug": "Knocklem_Ignis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "BOSS_WizardOwl",
-    "displayName": "Hoocrates (Boss)",
-    "wikiSlug": "Hoocrates_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_WoolFox",
-    "displayName": "Cremis (Boss)",
-    "wikiSlug": "Cremis_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "BOSS_WorldTreeDragon",
-    "displayName": "Astralym (Boss)",
-    "wikiSlug": "Astralym_(Boss)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "BOSS_YakushimaBoss001",
-    "displayName": "Eye of Cthulhu (Boss)",
-    "wikiSlug": "Eye_of_Cthulhu_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "BOSS_Yeti",
-    "displayName": "Wumpo (Boss)",
-    "wikiSlug": "Wumpo_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "BOSS_Yeti_Grass",
-    "displayName": "Wumpo Botan (Boss)",
-    "wikiSlug": "Wumpo_Botan_(Boss)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BeardedDragon",
-    "displayName": "Bearded Dragon",
-    "wikiSlug": "Bearded_Dragon",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BlackFurDragon",
-    "displayName": "Dragostrophe",
-    "wikiSlug": "Dragostrophe",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "BlueWoolRabbit",
-    "displayName": "Blue Wool Rabbit",
-    "wikiSlug": "Blue_Wool_Rabbit",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "CandleWitch",
-    "displayName": "Candle Witch",
-    "wikiSlug": "Candle_Witch",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "CuteOrca",
-    "displayName": "Cute Orca",
-    "wikiSlug": "Cute_Orca",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "ElecSnail_Fire",
-    "displayName": "Elec Snail Fire",
-    "wikiSlug": "Elec_Snail_Fire",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "FrozenBear",
-    "displayName": "Frozen Bear",
-    "wikiSlug": "Frozen_Bear",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "GYM_BlueSkyDragon",
-    "displayName": "Auri & Shaolong (Gym)",
-    "wikiSlug": "Auri_&_Shaolong_(Gym)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "GYM_BlueSkyDragon_2",
-    "displayName": "Auri & Shaolong (Gym)",
-    "wikiSlug": "Auri_&_Shaolong_(Gym)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "GYM_WorldTreeDragon",
-    "displayName": "Zenara & Astralym (Gym)",
-    "wikiSlug": "Zenara_&_Astralym_(Gym)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "GYM_WorldTreeDragon_2",
-    "displayName": "Zenara & Astralym (Gym)",
-    "wikiSlug": "Zenara_&_Astralym_(Gym)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "GrassDragon",
-    "displayName": "Grass Dragon",
-    "wikiSlug": "Grass_Dragon",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "IceVeilDragon",
-    "displayName": "Ice Veil Dragon",
-    "wikiSlug": "Ice_Veil_Dragon",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "KingCrab",
-    "displayName": "King Crab",
-    "wikiSlug": "King_Crab",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "LeafBird",
-    "displayName": "Leaf Bird",
-    "wikiSlug": "Leaf_Bird",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "MedjedBird",
-    "displayName": "Medjed Bird",
-    "wikiSlug": "Medjed_Bird",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "MexicanSalamander",
-    "displayName": "Mexican Salamander",
-    "wikiSlug": "Mexican_Salamander",
-    "paldex": -1,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "Monkey_Ice",
-    "displayName": "Monkey Ice",
-    "wikiSlug": "Monkey_Ice",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "MonochromeMushroom",
-    "displayName": "Monochrome Mushroom",
-    "wikiSlug": "Monochrome_Mushroom",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "POLICE_HawkBird",
-    "displayName": "PIDF Rider (Police)",
-    "wikiSlug": "PIDF_Rider_(Police)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "POLICE_ThunderDog",
-    "displayName": "PIDF Rider (Police)",
-    "wikiSlug": "PIDF_Rider_(Police)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_AmaterasuWolf",
-    "displayName": "Kitsun (Predator)",
-    "wikiSlug": "Kitsun_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Baphomet_Dark",
-    "displayName": "Incineram Noct (Predator)",
-    "wikiSlug": "Incineram_Noct_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_BirdDragon",
-    "displayName": "Vanwyrm (Predator)",
-    "wikiSlug": "Vanwyrm_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_CandleGhost",
-    "displayName": "Sootseer (Predator)",
-    "wikiSlug": "Sootseer_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_DarkScorpion",
-    "displayName": "Menasting (Predator)",
-    "wikiSlug": "Menasting_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_DrillGame",
-    "displayName": "Digtoise (Predator)",
-    "wikiSlug": "Digtoise_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_FairyDragon",
-    "displayName": "Elphidran (Predator)",
-    "wikiSlug": "Elphidran_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_FeatherOstrich",
-    "displayName": "Dazemu (Predator)",
-    "wikiSlug": "Dazemu_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_FlowerDinosaur",
-    "displayName": "Dinossom (Predator)",
-    "wikiSlug": "Dinossom_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_FlowerRabbit_Quest",
-    "displayName": "Flopie (Predator)",
-    "wikiSlug": "Flopie_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Garm",
-    "displayName": "Direhowl (Predator)",
-    "wikiSlug": "Direhowl_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Garm_Quest",
-    "displayName": "Direhowl (Predator)",
-    "wikiSlug": "Direhowl_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GhostBeast",
-    "displayName": "Maraith (Predator)",
-    "wikiSlug": "Maraith_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GoldenHorse",
-    "displayName": "Gildane (Predator)",
-    "wikiSlug": "Gildane_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Gorilla",
-    "displayName": "Gorirat (Predator)",
-    "wikiSlug": "Gorirat_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GrassMammoth_Ice",
-    "displayName": "Mammorest Cryst (Predator)",
-    "wikiSlug": "Mammorest_Cryst_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GrassMinotaur_Ice",
-    "displayName": "Elgrove Cryst (Predator)",
-    "wikiSlug": "Elgrove_Cryst_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GrassPanda",
-    "displayName": "Mossanda (Predator)",
-    "wikiSlug": "Mossanda_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_GrimGirl",
-    "displayName": "Splatterina (Predator)",
-    "wikiSlug": "Splatterina_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_HadesBird_Electric",
-    "displayName": "Helzephyr Lux (Predator)",
-    "wikiSlug": "Helzephyr_Lux_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Horus_Water",
-    "displayName": "Faleris Aqua (Predator)",
-    "wikiSlug": "Faleris_Aqua_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_LazyDragon",
-    "displayName": "Relaxaurus (Predator)",
-    "wikiSlug": "Relaxaurus_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Manticore_Dark",
-    "displayName": "Blazehowl Noct (Predator)",
-    "wikiSlug": "Blazehowl_Noct_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_MonochromeQueen",
-    "displayName": "Solenne (Predator)",
-    "wikiSlug": "Solenne_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_MummyPal",
-    "displayName": "Gildra (Predator)",
-    "wikiSlug": "Gildra_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_MushroomDragon",
-    "displayName": "Shroomer (Predator)",
-    "wikiSlug": "Shroomer_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_MysteryMask",
-    "displayName": "Omascul (Predator)",
-    "wikiSlug": "Omascul_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_NightBlueHorse",
-    "displayName": "Starryon (Predator)",
-    "wikiSlug": "Starryon_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_PandaGirl",
-    "displayName": "Leafan (Predator)",
-    "wikiSlug": "Leafan_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_PinkLizard",
-    "displayName": "Lovander (Predator)",
-    "wikiSlug": "Lovander_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_PinkLizard_Quest",
-    "displayName": "Lovander (Predator)",
-    "wikiSlug": "Lovander_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_PurpleSpider",
-    "displayName": "Tarantriss (Predator)",
-    "wikiSlug": "Tarantriss_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_RedArmorBird",
-    "displayName": "Ragnahawk (Predator)",
-    "wikiSlug": "Ragnahawk_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_RedFlowerBird",
-    "displayName": "Tropicaw (Predator)",
-    "wikiSlug": "Tropicaw_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Ronin_Dark",
-    "displayName": "Bushi Noct (Predator)",
-    "wikiSlug": "Bushi_Noct_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_ScorpionMan",
-    "displayName": "Prixter (Predator)",
-    "wikiSlug": "Prixter_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_SifuDog",
-    "displayName": "Dogen (Predator)",
-    "wikiSlug": "Dogen_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_SnakeGirl",
-    "displayName": "Venusa (Predator)",
-    "wikiSlug": "Venusa_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Suzaku",
-    "displayName": "Suzaku (Predator)",
-    "wikiSlug": "Suzaku_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_ThunderDog",
-    "displayName": "Rayhound (Predator)",
-    "wikiSlug": "Rayhound_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Umihebi_Fire",
-    "displayName": "Jormuntide Ignis (Predator)",
-    "wikiSlug": "Jormuntide_Ignis_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Umihebi_Fire_Quest",
-    "displayName": "Jormuntide Ignis (Predator)",
-    "wikiSlug": "Jormuntide_Ignis_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_VolcanicMonster_Ice",
-    "displayName": "Reptyro Cryst (Predator)",
-    "wikiSlug": "Reptyro_Cryst_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_VolcanoDragon",
-    "displayName": "Moldron (Predator)",
-    "wikiSlug": "Moldron_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Werewolf_Ice",
-    "displayName": "Loupmoon Cryst (Predator)",
-    "wikiSlug": "Loupmoon_Cryst_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_WhiteShieldDragon_Quest",
-    "displayName": "Silvegis (Predator)",
-    "wikiSlug": "Silvegis_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_WhiteTiger_Ground",
-    "displayName": "Cryolinx Terra (Predator)",
-    "wikiSlug": "Cryolinx_Terra_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PREDATOR_Yeti",
-    "displayName": "Wumpo (Predator)",
-    "wikiSlug": "Wumpo_(Predator)",
-    "paldex": -1,
-    "elements": [
-      "Ice"
-    ]
-  },
-  {
-    "internalName": "RAID_DarkMechaDragon",
-    "displayName": "Xenolord (Raid)",
-    "wikiSlug": "Xenolord_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "RAID_DarkMechaDragon_2",
-    "displayName": "Xenolord (Raid)",
-    "wikiSlug": "Xenolord_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "RAID_KingBahamut_Dragon",
-    "displayName": "Blazamut Ryu (Raid)",
-    "wikiSlug": "Blazamut_Ryu_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "RAID_KingBahamut_Dragon_2",
-    "displayName": "Blazamut Ryu (Raid)",
-    "wikiSlug": "Blazamut_Ryu_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "RAID_LegendDeer",
-    "displayName": "Hartalis (Raid)",
-    "wikiSlug": "Hartalis_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "RAID_LegendDeer_2",
-    "displayName": "Hartalis (Raid)",
-    "wikiSlug": "Hartalis_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Water",
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "RAID_NightLady",
-    "displayName": "Bellanoir (Raid)",
-    "wikiSlug": "Bellanoir_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "RAID_NightLady_Dark",
-    "displayName": "Bellanoir Libero (Raid)",
-    "wikiSlug": "Bellanoir_Libero_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "RAID_NightLady_Dark_2",
-    "displayName": "Bellanoir Libero (Raid)",
-    "wikiSlug": "Bellanoir_Libero_(Raid)",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "RAID_YakushimaBoss001_Green",
-    "displayName": "True Eye of Cthulhu (Raid)",
-    "wikiSlug": "True_Eye_of_Cthulhu_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss001_Green_2",
-    "displayName": "True Eye of Cthulhu (Raid)",
-    "wikiSlug": "True_Eye_of_Cthulhu_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_2",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Hand_Left",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Hand_Left_2",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Hand_Right",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Hand_Right_2",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Head",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RAID_YakushimaBoss002_Head_2",
-    "displayName": "Moon Lord (Raid)",
-    "wikiSlug": "Moon_Lord_(Raid)",
-    "paldex": -1,
-    "elements": []
-  },
-  {
-    "internalName": "RockCheetah",
-    "displayName": "Rock Cheetah",
-    "wikiSlug": "Rock_Cheetah",
-    "paldex": -1,
-    "elements": [
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "SnakeQueen",
-    "displayName": "Snake Queen",
-    "wikiSlug": "Snake_Queen",
-    "paldex": -1,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "StrawHatCat",
-    "displayName": "Straw Hat Cat",
-    "wikiSlug": "Straw_Hat_Cat",
-    "paldex": -1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "VolcanicTurtle",
-    "displayName": "Volcanic Turtle",
-    "wikiSlug": "Volcanic_Turtle",
-    "paldex": -1,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "WaterLizard",
-    "displayName": "Water Lizard",
-    "wikiSlug": "Water_Lizard",
-    "paldex": -1,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
     "internalName": "SheepBall",
     "displayName": "Lamball",
+    "wikiName": "Lamball",
     "wikiSlug": "Lamball",
     "paldex": 1,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "Quest_Farmer03_SheepBall",
-    "displayName": "Lamball",
-    "wikiSlug": "Lamball",
-    "paldex": 1,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "PinkCat",
     "displayName": "Cattiva",
+    "wikiName": "Cattiva",
     "wikiSlug": "Cattiva",
     "paldex": 2,
-    "elements": [
-      "Normal"
-    ]
-  },
-  {
-    "internalName": "Quest_Farmer03_PinkCat",
-    "displayName": "Cattiva",
-    "wikiSlug": "Cattiva",
-    "paldex": 2,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "ChickenPal",
     "displayName": "Chikipi",
+    "wikiName": "Chikipi",
     "wikiSlug": "Chikipi",
     "paldex": 3,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "Carbunclo",
     "displayName": "Lifmunk",
+    "wikiName": "Lifmunk",
     "wikiSlug": "Lifmunk",
     "paldex": 4,
-    "elements": [
-      "Leaf"
-    ]
-  },
-  {
-    "internalName": "BluePlatypus_Fire",
-    "displayName": "Fuack Ignis",
-    "wikiSlug": "Fuack_Ignis",
-    "paldex": 5,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "Blueplatypus",
     "displayName": "Fuack",
+    "wikiName": "Fuack",
     "wikiSlug": "Fuack",
     "paldex": 5,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
+  },
+  {
+    "internalName": "BluePlatypus_Fire",
+    "displayName": "Fuack Ignis",
+    "wikiName": "Fuack Ignis",
+    "wikiSlug": "Fuack_Ignis",
+    "paldex": 5,
+    "paldexSuffix": "B",
+    "elements": ["Water", "Fire"]
   },
   {
     "internalName": "CuteFox",
     "displayName": "Vixy",
+    "wikiName": "Vixy",
     "wikiSlug": "Vixy",
     "paldex": 6,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "FlyingManta",
     "displayName": "Celaray",
+    "wikiName": "Celaray",
     "wikiSlug": "Celaray",
     "paldex": 7,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "FlyingManta_Thunder",
     "displayName": "Celaray Lux",
+    "wikiName": "Celaray Lux",
     "wikiSlug": "Celaray_Lux",
     "paldex": 7,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Electricity"]
   },
   {
     "internalName": "WoolFox",
     "displayName": "Cremis",
+    "wikiName": "Cremis",
     "wikiSlug": "Cremis",
     "paldex": 8,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "KendoFrog",
     "displayName": "Croajiro",
+    "wikiName": "Croajiro",
     "wikiSlug": "Croajiro",
     "paldex": 9,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "KendoFrog_Dark",
     "displayName": "Croajiro Noct",
+    "wikiName": "Croajiro Noct",
     "wikiSlug": "Croajiro_Noct",
     "paldex": 9,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Dark"]
   },
   {
     "internalName": "LeafMomonga",
     "displayName": "Herbil",
+    "wikiName": "Herbil",
     "wikiSlug": "Herbil",
     "paldex": 10,
-    "elements": [
-      "Leaf",
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Normal"]
   },
   {
     "internalName": "Ganesha",
     "displayName": "Teafant",
+    "wikiName": "Teafant",
     "wikiSlug": "Teafant",
     "paldex": 11,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "PlantSlime",
     "displayName": "Gumoss",
+    "wikiName": "Gumoss",
     "wikiSlug": "Gumoss",
     "paldex": 12,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
-  },
-  {
-    "internalName": "PlantSlime_Flower",
-    "displayName": "Gumoss",
-    "wikiSlug": "Gumoss",
-    "paldex": 12,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Earth"]
   },
   {
     "internalName": "SamuraiDog",
     "displayName": "Pupperai",
+    "wikiName": "Pupperai",
     "wikiSlug": "Pupperai",
     "paldex": 13,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "CloverFairy",
     "displayName": "Clovee",
+    "wikiName": "Clovee",
     "wikiSlug": "Clovee",
     "paldex": 14,
-    "elements": [
-      "Leaf",
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Normal"]
   },
   {
     "internalName": "Hedgehog",
     "displayName": "Jolthog",
+    "wikiName": "Jolthog",
     "wikiSlug": "Jolthog",
     "paldex": 15,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "Hedgehog_Ice",
     "displayName": "Jolthog Cryst",
+    "wikiName": "Jolthog Cryst",
     "wikiSlug": "Jolthog_Cryst",
     "paldex": 15,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "NegativeKoala",
     "displayName": "Depresso",
+    "wikiName": "Depresso",
     "wikiSlug": "Depresso",
     "paldex": 16,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Penguin",
     "displayName": "Pengullet",
+    "wikiName": "Pengullet",
     "wikiSlug": "Pengullet",
     "paldex": 17,
-    "elements": [
-      "Water",
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water", "Ice"]
   },
   {
     "internalName": "Penguin_Electric",
     "displayName": "Pengullet Lux",
+    "wikiName": "Pengullet Lux",
     "wikiSlug": "Pengullet_Lux",
     "paldex": 17,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Electricity"]
   },
   {
     "internalName": "CaptainPenguin",
     "displayName": "Penking",
+    "wikiName": "Penking",
     "wikiSlug": "Penking",
     "paldex": 18,
-    "elements": [
-      "Water",
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water", "Ice"]
   },
   {
     "internalName": "CaptainPenguin_Black",
     "displayName": "Penking Lux",
+    "wikiName": "Penking Lux",
     "wikiSlug": "Penking_Lux",
     "paldex": 18,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Electricity"]
   },
   {
     "internalName": "WizardOwl",
     "displayName": "Hoocrates",
+    "wikiName": "Hoocrates",
     "wikiSlug": "Hoocrates",
     "paldex": 19,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Alpaca",
     "displayName": "Melpaca",
+    "wikiName": "Melpaca",
     "wikiSlug": "Melpaca",
     "paldex": 20,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "KingAlpaca",
     "displayName": "Kingpaca",
+    "wikiName": "Kingpaca",
     "wikiSlug": "Kingpaca",
     "paldex": 21,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "KingAlpaca_ice",
     "displayName": "Kingpaca Cryst",
+    "wikiName": "Kingpaca Cryst",
     "wikiSlug": "Kingpaca_Cryst",
     "paldex": 21,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "DreamDemon",
     "displayName": "Daedream",
+    "wikiName": "Daedream",
     "wikiSlug": "Daedream",
     "paldex": 22,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Monkey",
     "displayName": "Tanzee",
+    "wikiName": "Tanzee",
     "wikiSlug": "Tanzee",
     "paldex": 23,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "Monkey_Fire",
     "displayName": "Tanzee Ignis",
+    "wikiName": "Tanzee Ignis",
     "wikiSlug": "Tanzee_Ignis",
     "paldex": 23,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire"]
   },
   {
     "internalName": "NightFox",
     "displayName": "Nox",
+    "wikiName": "Nox",
     "wikiSlug": "Nox",
     "paldex": 24,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "LavaGirl",
     "displayName": "Flambelle",
+    "wikiName": "Flambelle",
     "wikiSlug": "Flambelle",
     "paldex": 25,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "FlameBambi",
     "displayName": "Rooby",
+    "wikiName": "Rooby",
     "wikiSlug": "Rooby",
     "paldex": 26,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Bastet",
     "displayName": "Mau",
+    "wikiName": "Mau",
     "wikiSlug": "Mau",
     "paldex": 27,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Bastet_Ice",
     "displayName": "Mau Cryst",
+    "wikiName": "Mau Cryst",
     "wikiSlug": "Mau_Cryst",
     "paldex": 27,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "Boar",
     "displayName": "Rushoar",
+    "wikiName": "Rushoar",
     "wikiSlug": "Rushoar",
     "paldex": 28,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Kitsunebi",
     "displayName": "Foxparks",
+    "wikiName": "Foxparks",
     "wikiSlug": "Foxparks",
     "paldex": 29,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Kitsunebi_Ice",
     "displayName": "Foxparks Cryst",
+    "wikiName": "Foxparks Cryst",
     "wikiSlug": "Foxparks_Cryst",
     "paldex": 29,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "NegativeOctopus",
     "displayName": "Killamari",
+    "wikiName": "Killamari",
     "wikiSlug": "Killamari",
     "paldex": 30,
-    "elements": [
-      "Dark",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Water"]
   },
   {
     "internalName": "NegativeOctopus_Neutral",
     "displayName": "Killamari Primo",
+    "wikiName": "Killamari Primo",
     "wikiSlug": "Killamari_Primo",
     "paldex": 30,
-    "elements": [
-      "Normal",
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Normal", "Water"]
   },
   {
     "internalName": "CuteMole",
     "displayName": "Fuddler",
+    "wikiName": "Fuddler",
     "wikiSlug": "Fuddler",
     "paldex": 31,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Deer",
     "displayName": "Eikthyrdeer",
+    "wikiName": "Eikthyrdeer",
     "wikiSlug": "Eikthyrdeer",
     "paldex": 32,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "Deer_Ground",
     "displayName": "Eikthyrdeer Terra",
+    "wikiName": "Eikthyrdeer Terra",
     "wikiSlug": "Eikthyrdeer_Terra",
     "paldex": 32,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Garm",
     "displayName": "Direhowl",
+    "wikiName": "Direhowl",
     "wikiSlug": "Direhowl",
     "paldex": 33,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "BerryGoat",
     "displayName": "Caprity",
+    "wikiName": "Caprity",
     "wikiSlug": "Caprity",
     "paldex": 34,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "BerryGoat_Dark",
     "displayName": "Caprity Noct",
+    "wikiName": "Caprity Noct",
     "wikiSlug": "Caprity_Noct",
     "paldex": 34,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MopBaby",
     "displayName": "Swee",
+    "wikiName": "Swee",
     "wikiSlug": "Swee",
     "paldex": 35,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "MopKing",
     "displayName": "Sweepa",
+    "wikiName": "Sweepa",
     "wikiSlug": "Sweepa",
     "paldex": 36,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "TentacleTurtle",
     "displayName": "Turtacle",
+    "wikiName": "Turtacle",
     "wikiSlug": "Turtacle",
     "paldex": 37,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "TentacleTurtle_Ground",
     "displayName": "Turtacle Terra",
+    "wikiName": "Turtacle Terra",
     "wikiSlug": "Turtacle_Terra",
     "paldex": 37,
-    "elements": [
-      "Water",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Earth"]
   },
   {
     "internalName": "WindChimes",
     "displayName": "Hangyu",
+    "wikiName": "Hangyu",
     "wikiSlug": "Hangyu",
     "paldex": 38,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "WindChimes_Ice",
     "displayName": "Hangyu Cryst",
+    "wikiName": "Hangyu Cryst",
     "wikiSlug": "Hangyu_Cryst",
     "paldex": 38,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "SweetsSheep",
     "displayName": "Woolipop",
+    "wikiName": "Woolipop",
     "wikiSlug": "Woolipop",
     "paldex": 39,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "SweetsSheep_Ground",
     "displayName": "Woolipop Terra",
+    "wikiName": "Woolipop Terra",
     "wikiSlug": "Woolipop_Terra",
     "paldex": 39,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Cowpal",
     "displayName": "Mozzarina",
+    "wikiName": "Mozzarina",
     "wikiSlug": "Mozzarina",
     "paldex": 40,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "BlueDragon",
     "displayName": "Azurobe",
+    "wikiName": "Azurobe",
     "wikiSlug": "Azurobe",
     "paldex": 41,
-    "elements": [
-      "Water",
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water", "Dragon"]
   },
   {
     "internalName": "BlueDragon_Ice",
     "displayName": "Azurobe Cryst",
+    "wikiName": "Azurobe Cryst",
     "wikiSlug": "Azurobe_Cryst",
     "paldex": 41,
-    "elements": [
-      "Ice",
-      "Dragon"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Dragon"]
   },
   {
     "internalName": "ElecCat",
     "displayName": "Sparkit",
+    "wikiName": "Sparkit",
     "wikiSlug": "Sparkit",
     "paldex": 42,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "Kelpie",
     "displayName": "Kelpsea",
+    "wikiName": "Kelpsea",
     "wikiSlug": "Kelpsea",
     "paldex": 43,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "Kelpie_Fire",
     "displayName": "Kelpsea Ignis",
+    "wikiName": "Kelpsea Ignis",
     "wikiSlug": "Kelpsea_Ignis",
     "paldex": 43,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire"]
   },
   {
     "internalName": "PinkRabbit",
     "displayName": "Ribbuny",
+    "wikiName": "Ribbuny",
     "wikiSlug": "Ribbuny",
     "paldex": 44,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "PinkRabbit_Grass",
     "displayName": "Ribbuny Botan",
+    "wikiName": "Ribbuny Botan",
     "wikiSlug": "Ribbuny_Botan",
     "paldex": 44,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "JellyfishFairy",
     "displayName": "Jelliette",
+    "wikiName": "Jelliette",
     "wikiSlug": "Jelliette",
     "paldex": 45,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "JellyfishGhost",
     "displayName": "Jellroy",
+    "wikiName": "Jellroy",
     "wikiSlug": "Jellroy",
     "paldex": 46,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water", "Dark"]
   },
   {
     "internalName": "ClioneTwins",
     "displayName": "Amione",
+    "wikiName": "Amione",
     "wikiSlug": "Amione",
     "paldex": 47,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "OctopusGIrl",
     "displayName": "Gloopie",
+    "wikiName": "Gloopie",
     "wikiSlug": "Gloopie",
     "paldex": 48,
-    "elements": [
-      "Water",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water", "Dark"]
   },
   {
     "internalName": "OctopusGirl_Neutral",
     "displayName": "Gloopie Primo",
+    "wikiName": "Gloopie Primo",
     "wikiSlug": "Gloopie_Primo",
     "paldex": 48,
-    "elements": [
-      "Water",
-      "Normal"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Normal"]
   },
   {
     "internalName": "Eagle",
     "displayName": "Galeclaw",
+    "wikiName": "Galeclaw",
     "wikiSlug": "Galeclaw",
     "paldex": 49,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "GhostBlackCat",
     "displayName": "Wispaw",
+    "wikiName": "Wispaw",
     "wikiSlug": "Wispaw",
     "paldex": 50,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "HawkBird",
     "displayName": "Nitewing",
+    "wikiName": "Nitewing",
     "wikiSlug": "Nitewing",
     "paldex": 51,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "CatBat",
     "displayName": "Tombat",
+    "wikiName": "Tombat",
     "wikiSlug": "Tombat",
     "paldex": 52,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "ColorfulBird",
     "displayName": "Tocotoco",
+    "wikiName": "Tocotoco",
     "wikiSlug": "Tocotoco",
     "paldex": 53,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "Kirin",
     "displayName": "Univolt",
+    "wikiName": "Univolt",
     "wikiSlug": "Univolt",
     "paldex": 54,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "Kirin_ice",
     "displayName": "Univolt Cryst",
+    "wikiName": "Univolt Cryst",
     "wikiSlug": "Univolt_Cryst",
     "paldex": 54,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "SharkKid",
     "displayName": "Gobfin",
+    "wikiName": "Gobfin",
     "wikiSlug": "Gobfin",
     "paldex": 55,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "SharkKid_Fire",
     "displayName": "Gobfin Ignis",
+    "wikiName": "Gobfin Ignis",
     "wikiSlug": "Gobfin_Ignis",
     "paldex": 55,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Werewolf",
     "displayName": "Loupmoon",
+    "wikiName": "Loupmoon",
     "wikiSlug": "Loupmoon",
     "paldex": 56,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Werewolf_Ice",
     "displayName": "Loupmoon Cryst",
+    "wikiName": "Loupmoon Cryst",
     "wikiSlug": "Loupmoon_Cryst",
     "paldex": 56,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "DarkCrow",
     "displayName": "Cawgnito",
+    "wikiName": "Cawgnito",
     "wikiSlug": "Cawgnito",
     "paldex": 57,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "FlameBuffalo",
     "displayName": "Arsox",
+    "wikiName": "Arsox",
     "wikiSlug": "Arsox",
     "paldex": 58,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "FluffyBird",
     "displayName": "Muffly",
+    "wikiName": "Muffly",
     "wikiSlug": "Muffly",
     "paldex": 59,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "LittleBriarRose",
     "displayName": "Bristla",
+    "wikiName": "Bristla",
     "wikiSlug": "Bristla",
     "paldex": 60,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "CuteButterfly",
     "displayName": "Cinnamoth",
+    "wikiName": "Cinnamoth",
     "wikiSlug": "Cinnamoth",
     "paldex": 61,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "ElecPomeranian",
     "displayName": "Puffolt",
+    "wikiName": "Puffolt",
     "wikiSlug": "Puffolt",
     "paldex": 62,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "FairyDragon",
     "displayName": "Elphidran",
+    "wikiName": "Elphidran",
     "wikiSlug": "Elphidran",
     "paldex": 63,
-    "elements": [
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon"]
   },
   {
     "internalName": "FairyDragon_Water",
     "displayName": "Elphidran Aqua",
+    "wikiName": "Elphidran Aqua",
     "wikiSlug": "Elphidran_Aqua",
     "paldex": 63,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Water"]
   },
   {
     "internalName": "BirdDragon",
     "displayName": "Vanwyrm",
+    "wikiName": "Vanwyrm",
     "wikiSlug": "Vanwyrm",
     "paldex": 64,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "BirdDragon_Ice",
     "displayName": "Vanwyrm Cryst",
+    "wikiName": "Vanwyrm Cryst",
     "wikiSlug": "Vanwyrm_Cryst",
     "paldex": 64,
-    "elements": [
-      "Ice",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Dark"]
   },
   {
     "internalName": "CatVampire",
     "displayName": "Felbat",
+    "wikiName": "Felbat",
     "wikiSlug": "Felbat",
     "paldex": 65,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "VioletFairy",
     "displayName": "Vaelet",
+    "wikiName": "Vaelet",
     "wikiSlug": "Vaelet",
     "paldex": 66,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "SoldierBee",
     "displayName": "Beegarde",
+    "wikiName": "Beegarde",
     "wikiSlug": "Beegarde",
     "paldex": 67,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "QueenBee",
     "displayName": "Elizabee",
+    "wikiName": "Elizabee",
     "wikiSlug": "Elizabee",
     "paldex": 68,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "PinkLizard",
     "displayName": "Lovander",
+    "wikiName": "Lovander",
     "wikiSlug": "Lovander",
     "paldex": 69,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "NaughtyCat",
     "displayName": "Grintale",
+    "wikiName": "Grintale",
     "wikiSlug": "Grintale",
     "paldex": 70,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "PurpleSpider",
     "displayName": "Tarantriss",
+    "wikiName": "Tarantriss",
     "wikiSlug": "Tarantriss",
     "paldex": 71,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "IceSeal",
     "displayName": "Polapup",
+    "wikiName": "Polapup",
     "wikiSlug": "Polapup",
     "paldex": 72,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice", "Water"]
   },
   {
     "internalName": "IceSeal_Ground",
     "displayName": "Polapup Terra",
+    "wikiName": "Polapup Terra",
     "wikiSlug": "Polapup_Terra",
     "paldex": 72,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Earth"]
   },
   {
     "internalName": "LizardMan",
     "displayName": "Leezpunk",
+    "wikiName": "Leezpunk",
     "wikiSlug": "Leezpunk",
     "paldex": 73,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "LizardMan_Fire",
     "displayName": "Leezpunk Ignis",
+    "wikiName": "Leezpunk Ignis",
     "wikiSlug": "Leezpunk_Ignis",
     "paldex": 73,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "LizardMan_Oilrig",
-    "displayName": "Leezpunk",
-    "wikiSlug": "Leezpunk",
-    "paldex": 73,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Gorilla",
     "displayName": "Gorirat",
+    "wikiName": "Gorirat",
     "wikiSlug": "Gorirat",
     "paldex": 74,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "Gorilla_Ground",
     "displayName": "Gorirat Terra",
+    "wikiName": "Gorirat Terra",
     "wikiSlug": "Gorirat_Terra",
     "paldex": 74,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Serpent",
     "displayName": "Surfent",
+    "wikiName": "Surfent",
     "wikiSlug": "Surfent",
     "paldex": 75,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "Serpent_Ground",
     "displayName": "Surfent Terra",
+    "wikiName": "Surfent Terra",
     "wikiSlug": "Surfent_Terra",
     "paldex": 75,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "RobinHood",
     "displayName": "Robinquill",
+    "wikiName": "Robinquill",
     "wikiSlug": "Robinquill",
     "paldex": 76,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "RobinHood_Ground",
     "displayName": "Robinquill Terra",
+    "wikiName": "Robinquill Terra",
     "wikiSlug": "Robinquill_Terra",
     "paldex": 76,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf", "Earth"]
   },
   {
     "internalName": "FlowerRabbit",
     "displayName": "Flopie",
+    "wikiName": "Flopie",
     "wikiSlug": "Flopie",
     "paldex": 77,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "FoxMage",
     "displayName": "Wixen",
+    "wikiName": "Wixen",
     "wikiSlug": "Wixen",
     "paldex": 78,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "FoxMage_Dark",
     "displayName": "Wixen Noct",
+    "wikiName": "Wixen Noct",
     "wikiSlug": "Wixen_Noct",
     "paldex": 78,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "CatMage",
     "displayName": "Katress",
+    "wikiName": "Katress",
     "wikiSlug": "Katress",
     "paldex": 79,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "CatMage_Fire",
     "displayName": "Katress Ignis",
+    "wikiName": "Katress Ignis",
     "wikiSlug": "Katress_Ignis",
     "paldex": 79,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark", "Fire"]
   },
   {
     "internalName": "HadesBird",
     "displayName": "Helzephyr",
+    "wikiName": "Helzephyr",
     "wikiSlug": "Helzephyr",
     "paldex": 80,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "HadesBird_Electric",
     "displayName": "Helzephyr Lux",
+    "wikiName": "Helzephyr Lux",
     "wikiSlug": "Helzephyr_Lux",
     "paldex": 80,
-    "elements": [
-      "Dark",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "HadesBird_Oilrig",
-    "displayName": "Helzephyr",
-    "wikiSlug": "Helzephyr",
-    "paldex": 80,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark", "Electricity"]
   },
   {
     "internalName": "GrassMinotaur",
     "displayName": "Elgrove",
+    "wikiName": "Elgrove",
     "wikiSlug": "Elgrove",
     "paldex": 81,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "GrassMinotaur_Ice",
     "displayName": "Elgrove Cryst",
+    "wikiName": "Elgrove Cryst",
     "wikiSlug": "Elgrove_Cryst",
     "paldex": 81,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "Mutant",
     "displayName": "Lunaris",
+    "wikiName": "Lunaris",
     "wikiSlug": "Lunaris",
     "paldex": 82,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "FengyunDeeper",
     "displayName": "Fenglope",
+    "wikiName": "Fenglope",
     "wikiSlug": "Fenglope",
     "paldex": 83,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "FengyunDeeper_Electric",
     "displayName": "Fenglope Lux",
+    "wikiName": "Fenglope Lux",
     "wikiSlug": "Fenglope_Lux",
     "paldex": 83,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "FlowerDinosaur",
     "displayName": "Dinossom",
+    "wikiName": "Dinossom",
     "wikiSlug": "Dinossom",
     "paldex": 84,
-    "elements": [
-      "Leaf",
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Dragon"]
   },
   {
     "internalName": "FlowerDinosaur_Electric",
     "displayName": "Dinossom Lux",
+    "wikiName": "Dinossom Lux",
     "wikiSlug": "Dinossom_Lux",
     "paldex": 84,
-    "elements": [
-      "Electricity",
-      "Dragon"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Electricity", "Dragon"]
   },
   {
     "internalName": "Ronin",
     "displayName": "Bushi",
+    "wikiName": "Bushi",
     "wikiSlug": "Bushi",
     "paldex": 85,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Ronin_Dark",
     "displayName": "Bushi Noct",
+    "wikiName": "Bushi Noct",
     "wikiSlug": "Bushi_Noct",
     "paldex": 85,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "IceCrocodile",
     "displayName": "Munchill",
+    "wikiName": "Munchill",
     "wikiSlug": "Munchill",
     "paldex": 86,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice", "Water"]
   },
   {
     "internalName": "GrassMammoth",
     "displayName": "Mammorest",
+    "wikiName": "Mammorest",
     "wikiSlug": "Mammorest",
     "paldex": 87,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Earth"]
   },
   {
     "internalName": "GrassMammoth_Ice",
     "displayName": "Mammorest Cryst",
+    "wikiName": "Mammorest Cryst",
     "wikiSlug": "Mammorest_Cryst",
     "paldex": 87,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Earth"]
   },
   {
     "internalName": "StuffedShark",
     "displayName": "Finsider",
+    "wikiName": "Finsider",
     "wikiSlug": "Finsider",
     "paldex": 88,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "StuffedShark_Fire",
     "displayName": "Finsider Ignis",
+    "wikiName": "Finsider Ignis",
     "wikiSlug": "Finsider_Ignis",
     "paldex": 88,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Fire"]
   },
   {
     "internalName": "FlowerDoll",
     "displayName": "Petallia",
+    "wikiName": "Petallia",
     "wikiSlug": "Petallia",
     "paldex": 89,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "FlowerDoll_Fire",
     "displayName": "Petallia Ignis",
+    "wikiName": "Petallia Ignis",
     "wikiSlug": "Petallia_Ignis",
     "paldex": 89,
-    "elements": [
-      "Leaf",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf", "Fire"]
   },
   {
     "internalName": "PandaGirl",
     "displayName": "Leafan",
+    "wikiName": "Leafan",
     "wikiSlug": "Leafan",
     "paldex": 90,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "Baphomet",
     "displayName": "Incineram",
+    "wikiName": "Incineram",
     "wikiSlug": "Incineram",
     "paldex": 91,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "Baphomet_Dark",
     "displayName": "Incineram Noct",
+    "wikiName": "Incineram Noct",
     "wikiSlug": "Incineram_Noct",
     "paldex": 91,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "Baphomet_Dark_Oilrig",
-    "displayName": "Incineram Noct",
-    "wikiSlug": "Incineram_Noct",
-    "paldex": 91,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "RaijinDaughter",
     "displayName": "Dazzi",
+    "wikiName": "Dazzi",
     "wikiSlug": "Dazzi",
     "paldex": 92,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "RaijinDaughter_Water",
     "displayName": "Dazzi Noct",
+    "wikiName": "Dazzi Noct",
     "wikiSlug": "Dazzi_Noct",
     "paldex": 92,
-    "elements": [
-      "Dark",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark", "Electricity"]
   },
   {
     "internalName": "FireKirin",
     "displayName": "Pyrin",
+    "wikiName": "Pyrin",
     "wikiSlug": "Pyrin",
     "paldex": 93,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "FireKirin_Dark",
     "displayName": "Pyrin Noct",
+    "wikiName": "Pyrin Noct",
     "wikiSlug": "Pyrin_Noct",
     "paldex": 93,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "LazyDragon",
     "displayName": "Relaxaurus",
+    "wikiName": "Relaxaurus",
     "wikiSlug": "Relaxaurus",
     "paldex": 94,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Water"]
   },
   {
     "internalName": "LazyDragon_Electric",
     "displayName": "Relaxaurus Lux",
+    "wikiName": "Relaxaurus Lux",
     "wikiSlug": "Relaxaurus_Lux",
     "paldex": 94,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "LazyDragon_Electric_Tower",
-    "displayName": "Relaxaurus Lux",
-    "wikiSlug": "Relaxaurus_Lux",
-    "paldex": 94,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Electricity"]
   },
   {
     "internalName": "IceFox",
     "displayName": "Foxcicle",
+    "wikiName": "Foxcicle",
     "wikiSlug": "Foxcicle",
     "paldex": 95,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "ThunderBird",
     "displayName": "Beakon",
+    "wikiName": "Beakon",
     "wikiSlug": "Beakon",
     "paldex": 96,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "ThunderBird_Ice",
     "displayName": "Beakon Cryst",
+    "wikiName": "Beakon Cryst",
     "wikiSlug": "Beakon_Cryst",
     "paldex": 96,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "GhostAnglerfish",
     "displayName": "Ghangler",
+    "wikiName": "Ghangler",
     "wikiSlug": "Ghangler",
     "paldex": 97,
-    "elements": [
-      "Dark",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Water"]
   },
   {
     "internalName": "GhostAnglerfish_Fire",
     "displayName": "Ghangler Ignis",
+    "wikiName": "Ghangler Ignis",
     "wikiSlug": "Ghangler_Ignis",
     "paldex": 97,
-    "elements": [
-      "Fire",
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Water"]
   },
   {
     "internalName": "ThunderDog",
     "displayName": "Rayhound",
+    "wikiName": "Rayhound",
     "wikiSlug": "Rayhound",
     "paldex": 98,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "ThunderDog_Ice",
     "displayName": "Rayhound Cryst",
+    "wikiName": "Rayhound Cryst",
     "wikiSlug": "Rayhound_Cryst",
     "paldex": 98,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "DarkScorpion",
     "displayName": "Menasting",
+    "wikiName": "Menasting",
     "wikiSlug": "Menasting",
     "paldex": 99,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Earth"]
   },
   {
     "internalName": "DarkScorpion_Ground",
     "displayName": "Menasting Terra",
+    "wikiName": "Menasting Terra",
     "wikiSlug": "Menasting_Terra",
     "paldex": 99,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "CactusDoll",
     "displayName": "Needoll",
+    "wikiName": "Needoll",
     "wikiSlug": "Needoll",
     "paldex": 100,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "CactusDoll_Dark",
     "displayName": "Needoll Noct",
+    "wikiName": "Needoll Noct",
     "wikiSlug": "Needoll_Noct",
     "paldex": 100,
-    "elements": [
-      "Dark",
-      "Leaf"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark", "Leaf"]
   },
   {
     "internalName": "IceDeer",
     "displayName": "Reindrix",
+    "wikiName": "Reindrix",
     "wikiSlug": "Reindrix",
     "paldex": 101,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "GrassPanda",
     "displayName": "Mossanda",
+    "wikiName": "Mossanda",
     "wikiSlug": "Mossanda",
     "paldex": 102,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "GrassPanda_Electric",
     "displayName": "Mossanda Lux",
+    "wikiName": "Mossanda Lux",
     "wikiSlug": "Mossanda_Lux",
     "paldex": 102,
-    "elements": [
-      "Electricity"
-    ]
-  },
-  {
-    "internalName": "GrassPanda_Electric_Tower",
-    "displayName": "Mossanda Lux",
-    "wikiSlug": "Mossanda_Lux",
-    "paldex": 102,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "WeaselDragon",
     "displayName": "Chillet",
+    "wikiName": "Chillet",
     "wikiSlug": "Chillet",
     "paldex": 103,
-    "elements": [
-      "Ice",
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice", "Dragon"]
   },
   {
     "internalName": "WeaselDragon_Fire",
     "displayName": "Chillet Ignis",
+    "wikiName": "Chillet Ignis",
     "wikiSlug": "Chillet_Ignis",
     "paldex": 103,
-    "elements": [
-      "Fire",
-      "Dragon"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Dragon"]
   },
   {
     "internalName": "RedArmorBird",
     "displayName": "Ragnahawk",
+    "wikiName": "Ragnahawk",
     "wikiSlug": "Ragnahawk",
     "paldex": 104,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "VolcanoDragon",
     "displayName": "Moldron",
+    "wikiName": "Moldron",
     "wikiSlug": "Moldron",
     "paldex": 105,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire", "Earth"]
   },
   {
     "internalName": "VolcanoDragon_Ice",
     "displayName": "Moldron Cryst",
+    "wikiName": "Moldron Cryst",
     "wikiSlug": "Moldron_Cryst",
     "paldex": 105,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Earth"]
   },
   {
     "internalName": "TropicalOstrich",
     "displayName": "Palumba",
+    "wikiName": "Palumba",
     "wikiSlug": "Palumba",
     "paldex": 106,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "DrillGame",
     "displayName": "Digtoise",
+    "wikiName": "Digtoise",
     "wikiSlug": "Digtoise",
     "paldex": 107,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "SakuraSaurus",
     "displayName": "Broncherry",
+    "wikiName": "Broncherry",
     "wikiSlug": "Broncherry",
     "paldex": 108,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "SakuraSaurus_Water",
     "displayName": "Broncherry Aqua",
+    "wikiName": "Broncherry Aqua",
     "wikiSlug": "Broncherry_Aqua",
     "paldex": 108,
-    "elements": [
-      "Leaf",
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf", "Water"]
   },
   {
     "internalName": "LazyCatfish",
     "displayName": "Dumud",
+    "wikiName": "Dumud",
     "wikiSlug": "Dumud",
     "paldex": 109,
-    "elements": [
-      "Earth",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth", "Water"]
   },
   {
     "internalName": "LazyCatfish_Gold",
     "displayName": "Dumud Gild",
+    "wikiName": "Dumud Gild",
     "wikiSlug": "Dumud_Gild",
     "paldex": 109,
-    "elements": [
-      "Earth",
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth", "Water"]
   },
   {
     "internalName": "Plesiosaur",
     "displayName": "Braloha",
+    "wikiName": "Braloha",
     "wikiSlug": "Braloha",
     "paldex": 110,
-    "elements": [
-      "Leaf",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Earth"]
   },
   {
     "internalName": "AmaterasuWolf",
     "displayName": "Kitsun",
+    "wikiName": "Kitsun",
     "wikiSlug": "Kitsun",
     "paldex": 111,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "AmaterasuWolf_Dark",
     "displayName": "Kitsun Noct",
+    "wikiName": "Kitsun Noct",
     "wikiSlug": "Kitsun_Noct",
     "paldex": 111,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "Manticore",
     "displayName": "Blazehowl",
+    "wikiName": "Blazehowl",
     "wikiSlug": "Blazehowl",
     "paldex": 112,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Manticore_Dark",
     "displayName": "Blazehowl Noct",
+    "wikiName": "Blazehowl Noct",
     "wikiSlug": "Blazehowl_Noct",
     "paldex": 112,
-    "elements": [
-      "Fire",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire", "Dark"]
   },
   {
     "internalName": "HerculesBeetle",
     "displayName": "Warsect",
+    "wikiName": "Warsect",
     "wikiSlug": "Warsect",
     "paldex": 113,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth", "Leaf"]
   },
   {
     "internalName": "HerculesBeetle_Ground",
     "displayName": "Warsect Terra",
+    "wikiName": "Warsect Terra",
     "wikiSlug": "Warsect_Terra",
     "paldex": 113,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "SnowPeafowl",
     "displayName": "Frostplume",
+    "wikiName": "Frostplume",
     "wikiSlug": "Frostplume",
     "paldex": 114,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "DarkFlameFox",
     "displayName": "Majex",
+    "wikiName": "Majex",
     "wikiSlug": "Majex",
     "paldex": 115,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Fire"]
   },
   {
     "internalName": "WhiteMoth",
     "displayName": "Sibelyx",
+    "wikiName": "Sibelyx",
     "wikiSlug": "Sibelyx",
     "paldex": 116,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "WhiteMoth_Neutral",
     "displayName": "Sibelyx Primo",
+    "wikiName": "Sibelyx Primo",
     "wikiSlug": "Sibelyx_Primo",
     "paldex": 116,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Normal"]
   },
   {
     "internalName": "GhostBeast",
     "displayName": "Maraith",
+    "wikiName": "Maraith",
     "wikiSlug": "Maraith",
     "paldex": 117,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MushroomDragon",
     "displayName": "Shroomer",
+    "wikiName": "Shroomer",
     "wikiSlug": "Shroomer",
     "paldex": 118,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "MushroomDragon_Dark",
     "displayName": "Shroomer Noct",
+    "wikiName": "Shroomer Noct",
     "wikiSlug": "Shroomer_Noct",
     "paldex": 118,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf", "Dark"]
   },
   {
     "internalName": "IceWitch",
     "displayName": "Icelyn",
+    "wikiName": "Icelyn",
     "wikiSlug": "Icelyn",
     "paldex": 119,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "MummyPal",
     "displayName": "Gildra",
+    "wikiName": "Gildra",
     "wikiSlug": "Gildra",
     "paldex": 120,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Earth"]
   },
   {
     "internalName": "Umihebi",
     "displayName": "Jormuntide",
+    "wikiName": "Jormuntide",
     "wikiSlug": "Jormuntide",
     "paldex": 121,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Water"]
   },
   {
     "internalName": "Umihebi_Fire",
     "displayName": "Jormuntide Ignis",
+    "wikiName": "Jormuntide Ignis",
     "wikiSlug": "Jormuntide_Ignis",
     "paldex": 121,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Fire"]
   },
   {
     "internalName": "Suzaku",
     "displayName": "Suzaku",
+    "wikiName": "Suzaku",
     "wikiSlug": "Suzaku",
     "paldex": 122,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Suzaku_Water",
     "displayName": "Suzaku Aqua",
+    "wikiName": "Suzaku Aqua",
     "wikiSlug": "Suzaku_Aqua",
     "paldex": 122,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water"]
   },
   {
     "internalName": "FeatherOstrich",
     "displayName": "Dazemu",
+    "wikiName": "Dazemu",
     "wikiSlug": "Dazemu",
     "paldex": 123,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "SkyDragon",
     "displayName": "Quivern",
+    "wikiName": "Quivern",
     "wikiSlug": "Quivern",
     "paldex": 124,
-    "elements": [
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon"]
   },
   {
     "internalName": "SkyDragon_Grass",
     "displayName": "Quivern Botan",
+    "wikiName": "Quivern Botan",
     "wikiSlug": "Quivern_Botan",
     "paldex": 124,
-    "elements": [
-      "Dragon",
-      "Leaf"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Leaf"]
   },
   {
     "internalName": "LeafPrincess",
     "displayName": "Lullu",
+    "wikiName": "Lullu",
     "wikiSlug": "Lullu",
     "paldex": 125,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "SmallArmadillo",
     "displayName": "Kikit",
+    "wikiName": "Kikit",
     "wikiSlug": "Kikit",
     "paldex": 126,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "GuardianDog",
     "displayName": "Yakumo",
+    "wikiName": "Yakumo",
     "wikiSlug": "Yakumo",
     "paldex": 127,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "SwordCutlassFish",
     "displayName": "Skutlass",
+    "wikiName": "Skutlass",
     "wikiSlug": "Skutlass",
     "paldex": 128,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "SwordCutlassFish_Fire",
     "displayName": "Skutlass Ignis",
+    "wikiName": "Skutlass Ignis",
     "wikiSlug": "Skutlass_Ignis",
     "paldex": 128,
-    "elements": [
-      "Water",
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "VolcanicMonster_Ice",
-    "displayName": "Reptyro Cryst",
-    "wikiSlug": "Reptyro_Cryst",
-    "paldex": 129,
-    "elements": [
-      "Ice",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Fire"]
   },
   {
     "internalName": "Volcanicmonster",
     "displayName": "Reptyro",
+    "wikiName": "Reptyro",
     "wikiSlug": "Reptyro",
     "paldex": 129,
-    "elements": [
-      "Fire",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire", "Earth"]
+  },
+  {
+    "internalName": "VolcanicMonster_Ice",
+    "displayName": "Reptyro Cryst",
+    "wikiName": "Reptyro Cryst",
+    "wikiSlug": "Reptyro_Cryst",
+    "paldex": 129,
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Earth"]
   },
   {
     "internalName": "NightBlueHorse",
     "displayName": "Starryon",
+    "wikiName": "Starryon",
     "wikiSlug": "Starryon",
     "paldex": 130,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "NightBlueHorse_Neutral",
     "displayName": "Starryon Primo",
+    "wikiName": "Starryon Primo",
     "wikiSlug": "Starryon_Primo",
     "paldex": 130,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Normal"]
   },
   {
     "internalName": "RockBeast",
     "displayName": "Pierdon",
+    "wikiName": "Pierdon",
     "wikiSlug": "Pierdon",
     "paldex": 131,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "RockBeast_Ice",
     "displayName": "Pierdon Cryst",
+    "wikiName": "Pierdon Cryst",
     "wikiSlug": "Pierdon_Cryst",
     "paldex": 131,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice"]
   },
   {
     "internalName": "WhiteTiger",
     "displayName": "Cryolinx",
+    "wikiName": "Cryolinx",
     "wikiSlug": "Cryolinx",
     "paldex": 132,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "WhiteTiger_Ground",
     "displayName": "Cryolinx Terra",
+    "wikiName": "Cryolinx Terra",
     "wikiSlug": "Cryolinx_Terra",
     "paldex": 132,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth"]
   },
   {
     "internalName": "SmallYeti",
     "displayName": "Snugloo",
+    "wikiName": "Snugloo",
     "wikiSlug": "Snugloo",
     "paldex": 133,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "Yeti",
     "displayName": "Wumpo",
+    "wikiName": "Wumpo",
     "wikiSlug": "Wumpo",
     "paldex": 134,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "Yeti_Grass",
     "displayName": "Wumpo Botan",
+    "wikiName": "Wumpo Botan",
     "wikiSlug": "Wumpo_Botan",
     "paldex": 134,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "CandleGhost",
     "displayName": "Sootseer",
+    "wikiName": "Sootseer",
     "wikiSlug": "Sootseer",
     "paldex": 135,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Fire"]
   },
   {
     "internalName": "VenusFlytrap",
     "displayName": "Carnibora",
+    "wikiName": "Carnibora",
     "wikiSlug": "Carnibora",
     "paldex": 136,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "KingBahamut",
     "displayName": "Blazamut",
+    "wikiName": "Blazamut",
     "wikiSlug": "Blazamut",
     "paldex": 137,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "KingBahamut_Dragon",
     "displayName": "Blazamut Ryu",
+    "wikiName": "Blazamut Ryu",
     "wikiSlug": "Blazamut_Ryu",
     "paldex": 137,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Fire"]
   },
   {
     "internalName": "GrassGolem",
     "displayName": "Dualith",
+    "wikiName": "Dualith",
     "wikiSlug": "Dualith",
     "paldex": 138,
-    "elements": [
-      "Earth",
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth", "Leaf"]
   },
   {
     "internalName": "GrassGolem_Dark",
     "displayName": "Dualith Noct",
+    "wikiName": "Dualith Noct",
     "wikiSlug": "Dualith_Noct",
     "paldex": 138,
-    "elements": [
-      "Earth",
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Earth", "Dark"]
   },
   {
     "internalName": "Anubis",
     "displayName": "Anubis",
+    "wikiName": "Anubis",
     "wikiSlug": "Anubis",
     "paldex": 139,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "Sekhmet",
     "displayName": "Sekhmet",
+    "wikiName": "Sekhmet",
     "wikiSlug": "Sekhmet",
     "paldex": 140,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "ScorpionMan",
     "displayName": "Prixter",
+    "wikiName": "Prixter",
     "wikiSlug": "Prixter",
     "paldex": 141,
-    "elements": [
-      "Dark",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Earth"]
   },
   {
     "internalName": "ScorpionMan_Electric",
     "displayName": "Prixter Lux",
+    "wikiName": "Prixter Lux",
     "wikiSlug": "Prixter_Lux",
     "paldex": 141,
-    "elements": [
-      "Electricity",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Electricity", "Earth"]
   },
   {
     "internalName": "CubeTurtle",
     "displayName": "Tetroise ",
+    "wikiName": "Tetroise ",
     "wikiSlug": "Tetroise_",
     "paldex": 142,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "CubeTurtle_Neutral",
     "displayName": "Tetroise Primo",
+    "wikiName": "Tetroise Primo",
     "wikiSlug": "Tetroise_Primo",
     "paldex": 142,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Normal"]
   },
   {
     "internalName": "BadCatGirl",
     "displayName": "Nyafia",
+    "wikiName": "Nyafia",
     "wikiSlug": "Nyafia",
     "paldex": 143,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MimicDog",
     "displayName": "Mimog",
+    "wikiName": "Mimog",
     "wikiSlug": "Mimog",
     "paldex": 144,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "DarkAlien",
     "displayName": "Xenovader",
+    "wikiName": "Xenovader",
     "wikiSlug": "Xenovader",
     "paldex": 145,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "DarkAlien_Oilrig",
-    "displayName": "Xenovader",
-    "wikiSlug": "Xenovader",
-    "paldex": 145,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "SUMMON_DarkAlien",
-    "displayName": "Xenovader (Summon)",
-    "wikiSlug": "Xenovader_(Summon)",
-    "paldex": 145,
-    "elements": [
-      "Dark"
-    ]
-  },
-  {
-    "internalName": "SUMMON_DarkAlien_MAX",
-    "displayName": "Xenovader (Summon)",
-    "wikiSlug": "Xenovader_(Summon)",
-    "paldex": 145,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "WhiteAlienDragon",
     "displayName": "Xenogard",
+    "wikiName": "Xenogard",
     "wikiSlug": "Xenogard",
     "paldex": 146,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "SUMMON_WhiteAlienDragon",
-    "displayName": "Xenogard (Summon)",
-    "wikiSlug": "Xenogard_(Summon)",
-    "paldex": 146,
-    "elements": [
-      "Dragon"
-    ]
-  },
-  {
-    "internalName": "SUMMON_WhiteAlienDragon_MAX",
-    "displayName": "Xenogard (Summon)",
-    "wikiSlug": "Xenogard_(Summon)",
-    "paldex": 146,
-    "elements": [
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon"]
   },
   {
     "internalName": "BlueberryFairy",
     "displayName": "Prunelia",
+    "wikiName": "Prunelia",
     "wikiSlug": "Prunelia",
     "paldex": 147,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Dark"]
   },
   {
     "internalName": "GhostRabbit",
     "displayName": "Nitemary",
+    "wikiName": "Nitemary",
     "wikiSlug": "Nitemary",
     "paldex": 148,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "GhostRabbit_Grass",
     "displayName": "Nitemary Botan",
+    "wikiName": "Nitemary Botan",
     "wikiSlug": "Nitemary_Botan",
     "paldex": 148,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "BlackPuppy",
     "displayName": "Smokie",
+    "wikiName": "Smokie",
     "wikiSlug": "Smokie",
     "paldex": 149,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "BlackPuppy_Ice",
     "displayName": "Smokie Cryst",
+    "wikiName": "Smokie Cryst",
     "wikiSlug": "Smokie_Cryst",
     "paldex": 149,
-    "elements": [
-      "Dark",
-      "Ice"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark", "Ice"]
   },
   {
     "internalName": "MysteryMask",
     "displayName": "Omascul",
+    "wikiName": "Omascul",
     "wikiSlug": "Omascul",
     "paldex": 150,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "IceNarwhal",
     "displayName": "Whalaska",
+    "wikiName": "Whalaska",
     "wikiSlug": "Whalaska",
     "paldex": 151,
-    "elements": [
-      "Ice",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice", "Water"]
   },
   {
     "internalName": "IceNarwhal_Fire",
     "displayName": "Whalaska Ignis",
+    "wikiName": "Whalaska Ignis",
     "wikiSlug": "Whalaska_Ignis",
     "paldex": 151,
-    "elements": [
-      "Ice",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Ice", "Fire"]
   },
   {
     "internalName": "GrassRabbitMan",
     "displayName": "Verdash",
+    "wikiName": "Verdash",
     "wikiSlug": "Verdash",
     "paldex": 152,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "GrimGirl",
     "displayName": "Splatterina",
+    "wikiName": "Splatterina",
     "wikiSlug": "Splatterina",
     "paldex": 153,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "GoldenHorse",
     "displayName": "Gildane",
+    "wikiName": "Gildane",
     "wikiSlug": "Gildane",
     "paldex": 154,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "SifuDog",
     "displayName": "Dogen",
+    "wikiName": "Dogen",
     "wikiSlug": "Dogen",
     "paldex": 155,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "SumoDog",
     "displayName": "Bulldosu",
+    "wikiName": "Bulldosu",
     "wikiSlug": "Bulldosu",
     "paldex": 156,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "WhiteDeer",
     "displayName": "Celesdir",
+    "wikiName": "Celesdir",
     "wikiSlug": "Celesdir",
     "paldex": 157,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "WhiteDeer_Dark",
     "displayName": "Celesdir Noct",
+    "wikiName": "Celesdir Noct",
     "wikiSlug": "Celesdir_Noct",
     "paldex": 157,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "BlackMetalDragon",
     "displayName": "Astegon",
+    "wikiName": "Astegon",
     "wikiSlug": "Astegon",
     "paldex": 158,
-    "elements": [
-      "Dragon",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Dark"]
   },
   {
     "internalName": "WingGolem",
     "displayName": "Knocklem",
+    "wikiName": "Knocklem",
     "wikiSlug": "Knocklem",
     "paldex": 159,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "WingGolem_Fire",
     "displayName": "Knocklem Ignis",
+    "wikiName": "Knocklem Ignis",
     "wikiSlug": "Knocklem_Ignis",
     "paldex": 159,
-    "elements": [
-      "Fire"
-    ]
-  },
-  {
-    "internalName": "WingGolem_Oilrig",
-    "displayName": "Knocklem",
-    "wikiSlug": "Knocklem",
-    "paldex": 159,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Fire"]
   },
   {
     "internalName": "WhiteShieldDragon",
     "displayName": "Silvegis",
+    "wikiName": "Silvegis",
     "wikiSlug": "Silvegis",
     "paldex": 160,
-    "elements": [
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon"]
   },
   {
     "internalName": "BlueThunderHorse",
     "displayName": "Azurmane",
+    "wikiName": "Azurmane",
     "wikiSlug": "Azurmane",
     "paldex": 161,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "LongCat",
     "displayName": "Valentail",
+    "wikiName": "Valentail",
     "wikiSlug": "Valentail",
     "paldex": 162,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "ElecSnail",
     "displayName": "Snock",
+    "wikiName": "Snock",
     "wikiSlug": "Snock",
     "paldex": 163,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "ElecSnail_Ground",
     "displayName": "Snock Lux",
+    "wikiName": "Snock Lux",
     "wikiSlug": "Snock_Lux",
     "paldex": 163,
-    "elements": [
-      "Electricity",
-      "Earth"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Electricity", "Earth"]
   },
   {
     "internalName": "DandelionGirl",
     "displayName": "Souffline",
+    "wikiName": "Souffline",
     "wikiSlug": "Souffline",
     "paldex": 164,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "BrownRabbit",
     "displayName": "Lapiron",
+    "wikiName": "Lapiron",
     "wikiSlug": "Lapiron",
     "paldex": 165,
-    "elements": [
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Earth"]
   },
   {
     "internalName": "HoodGhost",
     "displayName": "Hoodle",
+    "wikiName": "Hoodle",
     "wikiSlug": "Hoodle",
     "paldex": 166,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "ElecLizard",
     "displayName": "Slowatt",
+    "wikiName": "Slowatt",
     "wikiSlug": "Slowatt",
     "paldex": 167,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "OniGhostGirl",
     "displayName": "Bakemi",
+    "wikiName": "Bakemi",
     "wikiSlug": "Bakemi",
     "paldex": 168,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "KingSunfish",
     "displayName": "Solmora",
+    "wikiName": "Solmora",
     "wikiSlug": "Solmora",
     "paldex": 169,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "KingSunfish_Thunder",
     "displayName": "Solmora Lux",
+    "wikiName": "Solmora Lux",
     "wikiSlug": "Solmora_Lux",
     "paldex": 169,
-    "elements": [
-      "Water",
-      "Electricity"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water", "Electricity"]
   },
   {
     "internalName": "SleeveRabbit",
     "displayName": "Lapure",
+    "wikiName": "Lapure",
     "wikiSlug": "Lapure",
     "paldex": 170,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "GhostDragon",
     "displayName": "Eidrolon",
+    "wikiName": "Eidrolon",
     "wikiSlug": "Eidrolon",
     "paldex": 171,
-    "elements": [
-      "Dragon",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Dark"]
   },
   {
     "internalName": "GhostDragon_Fire",
     "displayName": "Eidrolon Ignis",
+    "wikiName": "Eidrolon Ignis",
     "wikiSlug": "Eidrolon_Ignis",
     "paldex": 171,
-    "elements": [
-      "Dragon",
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dragon", "Fire"]
   },
   {
     "internalName": "ThunderFluffyBird",
     "displayName": "Dynamoff",
+    "wikiName": "Dynamoff",
     "wikiSlug": "Dynamoff",
     "paldex": 172,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "RedFlowerBird",
     "displayName": "Tropicaw",
+    "wikiName": "Tropicaw",
     "wikiSlug": "Tropicaw",
     "paldex": 173,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "FoxExorcist",
     "displayName": "Flaracle",
+    "wikiName": "Flaracle",
     "wikiSlug": "Flaracle",
     "paldex": 174,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "LotusDragon",
     "displayName": "Ophydia",
+    "wikiName": "Ophydia",
     "wikiSlug": "Ophydia",
     "paldex": 175,
-    "elements": [
-      "Leaf",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Water"]
   },
   {
     "internalName": "ClownRabbit",
     "displayName": "Dupin",
+    "wikiName": "Dupin",
     "wikiSlug": "Dupin",
     "paldex": 176,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "ThiefBird",
     "displayName": "Roujay",
+    "wikiName": "Roujay",
     "wikiSlug": "Roujay",
     "paldex": 177,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "SnakeGirl",
     "displayName": "Venusa",
+    "wikiName": "Venusa",
     "wikiSlug": "Venusa",
     "paldex": 178,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MushroomLady",
     "displayName": "Mycora",
+    "wikiName": "Mycora",
     "wikiSlug": "Mycora",
     "paldex": 179,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "LanternButler",
     "displayName": "Loomen",
+    "wikiName": "Loomen",
     "wikiSlug": "Loomen",
     "paldex": 180,
-    "elements": [
-      "Dark",
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Fire"]
   },
   {
     "internalName": "MoonChild",
     "displayName": "Wistella",
+    "wikiName": "Wistella",
     "wikiSlug": "Wistella",
     "paldex": 181,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MonochromeQueen",
     "displayName": "Solenne",
+    "wikiName": "Solenne",
     "wikiSlug": "Solenne",
     "paldex": 182,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Normal"]
   },
   {
     "internalName": "KabukiMan",
     "displayName": "Renjishi",
+    "wikiName": "Renjishi",
     "wikiSlug": "Renjishi",
     "paldex": 183,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "DomeArmorDragon",
     "displayName": "Aegidron",
+    "wikiName": "Aegidron",
     "wikiSlug": "Aegidron",
     "paldex": 184,
-    "elements": [
-      "Dragon",
-      "Earth"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Earth"]
   },
   {
     "internalName": "ElecPanda",
     "displayName": "Grizzbolt",
+    "wikiName": "Grizzbolt",
     "wikiSlug": "Grizzbolt",
     "paldex": 185,
-    "elements": [
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Electricity"]
   },
   {
     "internalName": "LilyQueen",
     "displayName": "Lyleen",
+    "wikiName": "Lyleen",
     "wikiSlug": "Lyleen",
     "paldex": 186,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "LilyQueen_Dark",
     "displayName": "Lyleen Noct",
+    "wikiName": "Lyleen Noct",
     "wikiSlug": "Lyleen_Noct",
     "paldex": 186,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "ThunderDragonMan",
     "displayName": "Orserk",
+    "wikiName": "Orserk",
     "wikiSlug": "Orserk",
     "paldex": 187,
-    "elements": [
-      "Dragon",
-      "Electricity"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Electricity"]
   },
   {
     "internalName": "Horus",
     "displayName": "Faleris",
+    "wikiName": "Faleris",
     "wikiSlug": "Faleris",
     "paldex": 188,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Fire"]
   },
   {
     "internalName": "Horus_Water",
     "displayName": "Faleris Aqua",
+    "wikiName": "Faleris Aqua",
     "wikiSlug": "Faleris_Aqua",
     "paldex": 188,
-    "elements": [
-      "Water"
-    ]
-  },
-  {
-    "internalName": "Horus_Oilrig",
-    "displayName": "Faleris",
-    "wikiSlug": "Faleris",
-    "paldex": 188,
-    "elements": [
-      "Fire"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Water"]
   },
   {
     "internalName": "BlackGriffon",
     "displayName": "Shadowbeak",
+    "wikiName": "Shadowbeak",
     "wikiSlug": "Shadowbeak",
     "paldex": 189,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "MoonQueen",
     "displayName": "Selyne",
+    "wikiName": "Selyne",
     "wikiSlug": "Selyne",
     "paldex": 190,
-    "elements": [
-      "Dark",
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Normal"]
   },
   {
     "internalName": "SnowTigerBeastMan",
     "displayName": "Bastigor",
+    "wikiName": "Bastigor",
     "wikiSlug": "Bastigor",
     "paldex": 191,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "BlueSkyDragon",
     "displayName": "Shaolong",
+    "wikiName": "Shaolong",
     "wikiSlug": "Shaolong",
     "paldex": 192,
-    "elements": [
-      "Dragon",
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon", "Water"]
   },
   {
     "internalName": "Mothman",
     "displayName": "Silvance",
+    "wikiName": "Silvance",
     "wikiSlug": "Silvance",
     "paldex": 193,
-    "elements": [
-      "Leaf"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf"]
   },
   {
     "internalName": "FlowerPrince",
     "displayName": "Dandilord",
+    "wikiName": "Dandilord",
     "wikiSlug": "Dandilord",
     "paldex": 194,
-    "elements": [
-      "Leaf",
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Leaf", "Dark"]
   },
   {
     "internalName": "NightLady",
     "displayName": "Bellanoir",
+    "wikiName": "Bellanoir",
     "wikiSlug": "Bellanoir",
     "paldex": 195,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "NightLady_Dark",
     "displayName": "Bellanoir Libero",
+    "wikiName": "Bellanoir Libero",
     "wikiSlug": "Bellanoir_Libero",
     "paldex": 195,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "DarkMechaDragon",
     "displayName": "Xenolord",
+    "wikiName": "Xenolord",
     "wikiSlug": "Xenolord",
     "paldex": 196,
-    "elements": [
-      "Dark",
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark", "Dragon"]
   },
   {
     "internalName": "LegendDeer",
     "displayName": "Hartalis",
+    "wikiName": "Hartalis",
     "wikiSlug": "Hartalis",
     "paldex": 197,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "SaintCentaur",
     "displayName": "Paladius",
+    "wikiName": "Paladius",
     "wikiSlug": "Paladius",
     "paldex": 198,
-    "elements": [
-      "Normal"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Normal"]
   },
   {
     "internalName": "BlackCentaur",
     "displayName": "Necromus",
+    "wikiName": "Necromus",
     "wikiSlug": "Necromus",
     "paldex": 199,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dark"]
   },
   {
     "internalName": "IceHorse",
     "displayName": "Frostallion",
+    "wikiName": "Frostallion",
     "wikiSlug": "Frostallion",
     "paldex": 200,
-    "elements": [
-      "Ice"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Ice"]
   },
   {
     "internalName": "IceHorse_Dark",
     "displayName": "Frostallion Noct",
+    "wikiName": "Frostallion Noct",
     "wikiSlug": "Frostallion_Noct",
     "paldex": 200,
-    "elements": [
-      "Dark"
-    ]
+    "paldexSuffix": "B",
+    "elements": ["Dark"]
   },
   {
     "internalName": "PoseidonOrca",
     "displayName": "Neptilius",
+    "wikiName": "Neptilius",
     "wikiSlug": "Neptilius",
     "paldex": 201,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "JetDragon",
     "displayName": "Jetragon",
+    "wikiName": "Jetragon",
     "wikiSlug": "Jetragon",
     "paldex": 202,
-    "elements": [
-      "Dragon"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Dragon"]
   },
   {
     "internalName": "KingWhale",
     "displayName": "Panthalus",
+    "wikiName": "Panthalus",
     "wikiSlug": "Panthalus",
     "paldex": 203,
-    "elements": [
-      "Water"
-    ]
+    "paldexSuffix": "",
+    "elements": ["Water"]
   },
   {
     "internalName": "WorldTreeDragon",
     "displayName": "Astralym",
+    "wikiName": "Astralym",
     "wikiSlug": "Astralym",
     "paldex": 204,
+    "paldexSuffix": "",
     "elements": []
   }
 ]

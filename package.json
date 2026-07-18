@@ -12,7 +12,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "preview": "vite preview",
-    "generate-pal-db": "npx -y tsx tools/generate-pal-db.ts"
+    "generate-pal-db": "npx -y tsx tools/generate-pal-db.ts",
+    "download-pal-resources": "npx -y tsx tools/download-pal-resources.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
