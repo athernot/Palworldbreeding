@@ -1,0 +1,16 @@
+{
+  "commit": "cb9b4bc89d2cdec6ccf71e23c623392d3efb6b40",
+  "downloadedAt": "2026-07-18T01:07:25.313637Z",
+  "files": [
+    {
+      "path": "resources/game_data/characters.json",
+      "size": 2079082,
+      "sha256": "9f775b4ec159069f23859428ef785b6e7900f87b629a118d54480d7cd175fc2f"
+    },
+    {
+      "path": "resources/game_data/breedingdata.json",
+      "size": 7139483,
+      "sha256": "07a137963d6d1113e142eab715140aa9fea5fe5e5a5d843ecb60bb982164f12c"
+    }
+  ]
+}

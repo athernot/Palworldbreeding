@@ -1,0 +1,2322 @@
+{
+  "resourceVersion": "cb9b4bc89d2cdec6ccf71e23c623392d3efb6b40",
+  "generatedAt": "2026-07-18T01:10:08.849Z",
+  "sourceFiles": [
+    "resources/game_data/characters.json",
+    "resources/game_data/breedingdata.json"
+  ],
+  "totalCharacters": 753,
+  "canonicalSpeciesCount": 288,
+  "aliasCount": 381,
+  "filteredEntries": [
+    { "assetName": "DarkMutant", "reason": "no canonical paldex" },
+    { "assetName": "ElecLion", "reason": "no canonical paldex" },
+    { "assetName": "PinkKangaroo", "reason": "no canonical paldex" },
+    { "assetName": "YakushimaBoss001", "reason": "no canonical paldex" },
+    { "assetName": "YakushimaBoss001_Small", "reason": "no canonical paldex" },
+    { "assetName": "YakushimaMonster001", "reason": "no canonical paldex" },
+    {
+      "assetName": "YakushimaMonster001_Blue",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "YakushimaMonster001_Pink",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "YakushimaMonster001_Purple",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "YakushimaMonster001_Rainbow",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "YakushimaMonster001_Red", "reason": "no canonical paldex" },
+    { "assetName": "YakushimaMonster002", "reason": "no canonical paldex" },
+    { "assetName": "YakushimaMonster003", "reason": "no canonical paldex" },
+    {
+      "assetName": "YakushimaMonster003_Purple",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "AmaterasuWolf_Dark_Quest_Enemy",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "AmaterasuWolf_Dark_Quest_Friend",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "ArmorWoodlouse", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_ArmorWoodlouse", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_BeardedDragon", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_BlackFurDragon", "reason": "no canonical paldex" },
+    {
+      "assetName": "BOSS_BlackGriffon_BossRush",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "BOSS_BlueSkyDragon_BossRush",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "BOSS_BlueWoolRabbit", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_CandleWitch", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_CuteOrca", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_DarkMutant", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_ElecLion", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_ElecPanda_BossRush", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_ElecSnail_Fire", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_FrozenBear", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_GrassDragon", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_Horus_BossRush", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_IceVeilDragon", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_KingCrab", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_LeafBird", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_LilyQueen_BossRush", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_MedjedBird", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_MexicanSalamander", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_Monkey_Ice", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_MonochromeMushroom", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_MoonQueen_BossRush", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_PinkKangaroo", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_PlantSlime_Flower", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_RockCheetah", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_SnakeQueen", "reason": "no canonical paldex" },
+    {
+      "assetName": "BOSS_SnowTigerBeastman_BossRush",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "BOSS_StrawHatCat", "reason": "no canonical paldex" },
+    {
+      "assetName": "BOSS_ThunderDragonMan_BossRush",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "BOSS_VolcanicTurtle", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_WaterLizard", "reason": "no canonical paldex" },
+    { "assetName": "BOSS_YakushimaBoss001", "reason": "no canonical paldex" },
+    { "assetName": "BeardedDragon", "reason": "no canonical paldex" },
+    { "assetName": "BlackFurDragon", "reason": "no canonical paldex" },
+    { "assetName": "BlueWoolRabbit", "reason": "no canonical paldex" },
+    { "assetName": "CandleWitch", "reason": "no canonical paldex" },
+    { "assetName": "CuteOrca", "reason": "no canonical paldex" },
+    { "assetName": "ElecSnail_Fire", "reason": "no canonical paldex" },
+    { "assetName": "FrozenBear", "reason": "no canonical paldex" },
+    { "assetName": "GYM_MoonQueen_2_Servant", "reason": "no canonical paldex" },
+    { "assetName": "GrassDragon", "reason": "no canonical paldex" },
+    { "assetName": "IceVeilDragon", "reason": "no canonical paldex" },
+    { "assetName": "KingCrab", "reason": "no canonical paldex" },
+    { "assetName": "LeafBird", "reason": "no canonical paldex" },
+    { "assetName": "MedjedBird", "reason": "no canonical paldex" },
+    { "assetName": "MexicanSalamander", "reason": "no canonical paldex" },
+    { "assetName": "Monkey_Ice", "reason": "no canonical paldex" },
+    { "assetName": "MonochromeMushroom", "reason": "no canonical paldex" },
+    { "assetName": "POLICE_HawkBird", "reason": "no canonical paldex" },
+    { "assetName": "POLICE_ThunderDog", "reason": "no canonical paldex" },
+    {
+      "assetName": "RAID_YakushimaBoss001_Green",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss001_Green_2",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "RAID_YakushimaBoss002", "reason": "no canonical paldex" },
+    { "assetName": "RAID_YakushimaBoss002_2", "reason": "no canonical paldex" },
+    {
+      "assetName": "RAID_YakushimaBoss002_Hand_Left",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss002_Hand_Left_2",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss002_Hand_Right",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss002_Hand_Right_2",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss002_Head",
+      "reason": "no canonical paldex"
+    },
+    {
+      "assetName": "RAID_YakushimaBoss002_Head_2",
+      "reason": "no canonical paldex"
+    },
+    { "assetName": "RockCheetah", "reason": "no canonical paldex" },
+    { "assetName": "SnakeQueen", "reason": "no canonical paldex" },
+    { "assetName": "StrawHatCat", "reason": "no canonical paldex" },
+    { "assetName": "VolcanicTurtle", "reason": "no canonical paldex" },
+    { "assetName": "WaterLizard", "reason": "no canonical paldex" }
+  ],
+  "ambiguousEntries": [],
+  "namingRuleInferences": [
+    {
+      "assetName": "Boss_Anubis",
+      "canonicalInternalName": "Anubis",
+      "normalizedName": "Anubis"
+    },
+    {
+      "assetName": "GYM_ElecPanda_Otomo",
+      "canonicalInternalName": "ElecPanda",
+      "normalizedName": "ElecPanda"
+    },
+    {
+      "assetName": "BOSS_Alpaca",
+      "canonicalInternalName": "Alpaca",
+      "normalizedName": "Alpaca"
+    },
+    {
+      "assetName": "BOSS_AmaterasuWolf",
+      "canonicalInternalName": "AmaterasuWolf",
+      "normalizedName": "AmaterasuWolf"
+    },
+    {
+      "assetName": "BOSS_AmaterasuWolf_Dark",
+      "canonicalInternalName": "AmaterasuWolf_Dark",
+      "normalizedName": "AmaterasuWolf_Dark"
+    },
+    {
+      "assetName": "BOSS_BadCatgirl",
+      "canonicalInternalName": "BadCatGirl",
+      "normalizedName": "BadCatgirl"
+    },
+    {
+      "assetName": "BOSS_Baphomet",
+      "canonicalInternalName": "Baphomet",
+      "normalizedName": "Baphomet"
+    },
+    {
+      "assetName": "BOSS_Baphomet_Dark",
+      "canonicalInternalName": "Baphomet_Dark",
+      "normalizedName": "Baphomet_Dark"
+    },
+    {
+      "assetName": "BOSS_Bastet",
+      "canonicalInternalName": "Bastet",
+      "normalizedName": "Bastet"
+    },
+    {
+      "assetName": "BOSS_Bastet_Ice",
+      "canonicalInternalName": "Bastet_Ice",
+      "normalizedName": "Bastet_Ice"
+    },
+    {
+      "assetName": "BOSS_BerryGoat",
+      "canonicalInternalName": "BerryGoat",
+      "normalizedName": "BerryGoat"
+    },
+    {
+      "assetName": "BOSS_BerryGoat_Dark",
+      "canonicalInternalName": "BerryGoat_Dark",
+      "normalizedName": "BerryGoat_Dark"
+    },
+    {
+      "assetName": "BOSS_BirdDragon",
+      "canonicalInternalName": "BirdDragon",
+      "normalizedName": "BirdDragon"
+    },
+    {
+      "assetName": "BOSS_BirdDragon_Ice",
+      "canonicalInternalName": "BirdDragon_Ice",
+      "normalizedName": "BirdDragon_Ice"
+    },
+    {
+      "assetName": "BOSS_BlackCentaur",
+      "canonicalInternalName": "BlackCentaur",
+      "normalizedName": "BlackCentaur"
+    },
+    {
+      "assetName": "BOSS_BlackGriffon",
+      "canonicalInternalName": "BlackGriffon",
+      "normalizedName": "BlackGriffon"
+    },
+    {
+      "assetName": "BOSS_BlackMetalDragon",
+      "canonicalInternalName": "BlackMetalDragon",
+      "normalizedName": "BlackMetalDragon"
+    },
+    {
+      "assetName": "BOSS_BlackPuppy",
+      "canonicalInternalName": "BlackPuppy",
+      "normalizedName": "BlackPuppy"
+    },
+    {
+      "assetName": "BOSS_BlackPuppy_Ice",
+      "canonicalInternalName": "BlackPuppy_Ice",
+      "normalizedName": "BlackPuppy_Ice"
+    },
+    {
+      "assetName": "BOSS_BlueDragon",
+      "canonicalInternalName": "BlueDragon",
+      "normalizedName": "BlueDragon"
+    },
+    {
+      "assetName": "BOSS_BlueDragon_Ice",
+      "canonicalInternalName": "BlueDragon_Ice",
+      "normalizedName": "BlueDragon_Ice"
+    },
+    {
+      "assetName": "BOSS_BluePlatypus",
+      "canonicalInternalName": "Blueplatypus",
+      "normalizedName": "BluePlatypus"
+    },
+    {
+      "assetName": "BOSS_BluePlatypus_Fire",
+      "canonicalInternalName": "BluePlatypus_Fire",
+      "normalizedName": "BluePlatypus_Fire"
+    },
+    {
+      "assetName": "BOSS_BlueSkyDragon",
+      "canonicalInternalName": "BlueSkyDragon",
+      "normalizedName": "BlueSkyDragon"
+    },
+    {
+      "assetName": "BOSS_BlueThunderHorse",
+      "canonicalInternalName": "BlueThunderHorse",
+      "normalizedName": "BlueThunderHorse"
+    },
+    {
+      "assetName": "BOSS_BlueberryFairy",
+      "canonicalInternalName": "BlueberryFairy",
+      "normalizedName": "BlueberryFairy"
+    },
+    {
+      "assetName": "BOSS_Boar",
+      "canonicalInternalName": "Boar",
+      "normalizedName": "Boar"
+    },
+    {
+      "assetName": "BOSS_BrownRabbit",
+      "canonicalInternalName": "BrownRabbit",
+      "normalizedName": "BrownRabbit"
+    },
+    {
+      "assetName": "BOSS_CactusDoll",
+      "canonicalInternalName": "CactusDoll",
+      "normalizedName": "CactusDoll"
+    },
+    {
+      "assetName": "BOSS_CactusDoll_Dark",
+      "canonicalInternalName": "CactusDoll_Dark",
+      "normalizedName": "CactusDoll_Dark"
+    },
+    {
+      "assetName": "BOSS_CandleGhost",
+      "canonicalInternalName": "CandleGhost",
+      "normalizedName": "CandleGhost"
+    },
+    {
+      "assetName": "BOSS_CaptainPenguin",
+      "canonicalInternalName": "CaptainPenguin",
+      "normalizedName": "CaptainPenguin"
+    },
+    {
+      "assetName": "BOSS_CaptainPenguin_Black",
+      "canonicalInternalName": "CaptainPenguin_Black",
+      "normalizedName": "CaptainPenguin_Black"
+    },
+    {
+      "assetName": "BOSS_Carbunclo",
+      "canonicalInternalName": "Carbunclo",
+      "normalizedName": "Carbunclo"
+    },
+    {
+      "assetName": "BOSS_CatBat",
+      "canonicalInternalName": "CatBat",
+      "normalizedName": "CatBat"
+    },
+    {
+      "assetName": "BOSS_CatMage",
+      "canonicalInternalName": "CatMage",
+      "normalizedName": "CatMage"
+    },
+    {
+      "assetName": "BOSS_CatMage_Fire",
+      "canonicalInternalName": "CatMage_Fire",
+      "normalizedName": "CatMage_Fire"
+    },
+    {
+      "assetName": "BOSS_CatVampire",
+      "canonicalInternalName": "CatVampire",
+      "normalizedName": "CatVampire"
+    },
+    {
+      "assetName": "BOSS_ChickenPal",
+      "canonicalInternalName": "ChickenPal",
+      "normalizedName": "ChickenPal"
+    },
+    {
+      "assetName": "BOSS_ClioneTwins",
+      "canonicalInternalName": "ClioneTwins",
+      "normalizedName": "ClioneTwins"
+    },
+    {
+      "assetName": "BOSS_CloverFairy",
+      "canonicalInternalName": "CloverFairy",
+      "normalizedName": "CloverFairy"
+    },
+    {
+      "assetName": "BOSS_ClownRabbit",
+      "canonicalInternalName": "ClownRabbit",
+      "normalizedName": "ClownRabbit"
+    },
+    {
+      "assetName": "BOSS_ColorfulBird",
+      "canonicalInternalName": "ColorfulBird",
+      "normalizedName": "ColorfulBird"
+    },
+    {
+      "assetName": "BOSS_CowPal",
+      "canonicalInternalName": "Cowpal",
+      "normalizedName": "CowPal"
+    },
+    {
+      "assetName": "BOSS_CubeTurtle",
+      "canonicalInternalName": "CubeTurtle",
+      "normalizedName": "CubeTurtle"
+    },
+    {
+      "assetName": "BOSS_CubeTurtle_Neutral",
+      "canonicalInternalName": "CubeTurtle_Neutral",
+      "normalizedName": "CubeTurtle_Neutral"
+    },
+    {
+      "assetName": "BOSS_CuteButterfly",
+      "canonicalInternalName": "CuteButterfly",
+      "normalizedName": "CuteButterfly"
+    },
+    {
+      "assetName": "BOSS_CuteFox",
+      "canonicalInternalName": "CuteFox",
+      "normalizedName": "CuteFox"
+    },
+    {
+      "assetName": "BOSS_CuteMole",
+      "canonicalInternalName": "CuteMole",
+      "normalizedName": "CuteMole"
+    },
+    {
+      "assetName": "BOSS_DandelionGirl",
+      "canonicalInternalName": "DandelionGirl",
+      "normalizedName": "DandelionGirl"
+    },
+    {
+      "assetName": "BOSS_DarkAlien",
+      "canonicalInternalName": "DarkAlien",
+      "normalizedName": "DarkAlien"
+    },
+    {
+      "assetName": "BOSS_DarkCrow",
+      "canonicalInternalName": "DarkCrow",
+      "normalizedName": "DarkCrow"
+    },
+    {
+      "assetName": "BOSS_DarkFlameFox",
+      "canonicalInternalName": "DarkFlameFox",
+      "normalizedName": "DarkFlameFox"
+    },
+    {
+      "assetName": "BOSS_DarkMechaDragon",
+      "canonicalInternalName": "DarkMechaDragon",
+      "normalizedName": "DarkMechaDragon"
+    },
+    {
+      "assetName": "BOSS_DarkScorpion",
+      "canonicalInternalName": "DarkScorpion",
+      "normalizedName": "DarkScorpion"
+    },
+    {
+      "assetName": "BOSS_DarkScorpion_Ground",
+      "canonicalInternalName": "DarkScorpion_Ground",
+      "normalizedName": "DarkScorpion_Ground"
+    },
+    {
+      "assetName": "BOSS_Deer",
+      "canonicalInternalName": "Deer",
+      "normalizedName": "Deer"
+    },
+    {
+      "assetName": "BOSS_Deer_Ground",
+      "canonicalInternalName": "Deer_Ground",
+      "normalizedName": "Deer_Ground"
+    },
+    {
+      "assetName": "BOSS_DomeArmorDragon",
+      "canonicalInternalName": "DomeArmorDragon",
+      "normalizedName": "DomeArmorDragon"
+    },
+    {
+      "assetName": "BOSS_DreamDemon",
+      "canonicalInternalName": "DreamDemon",
+      "normalizedName": "DreamDemon"
+    },
+    {
+      "assetName": "BOSS_DrillGame",
+      "canonicalInternalName": "DrillGame",
+      "normalizedName": "DrillGame"
+    },
+    {
+      "assetName": "BOSS_Eagle",
+      "canonicalInternalName": "Eagle",
+      "normalizedName": "Eagle"
+    },
+    {
+      "assetName": "BOSS_ElecCat",
+      "canonicalInternalName": "ElecCat",
+      "normalizedName": "ElecCat"
+    },
+    {
+      "assetName": "BOSS_ElecLizard",
+      "canonicalInternalName": "ElecLizard",
+      "normalizedName": "ElecLizard"
+    },
+    {
+      "assetName": "BOSS_ElecPanda",
+      "canonicalInternalName": "ElecPanda",
+      "normalizedName": "ElecPanda"
+    },
+    {
+      "assetName": "BOSS_ElecPomeranian",
+      "canonicalInternalName": "ElecPomeranian",
+      "normalizedName": "ElecPomeranian"
+    },
+    {
+      "assetName": "BOSS_ElecSnail",
+      "canonicalInternalName": "ElecSnail",
+      "normalizedName": "ElecSnail"
+    },
+    {
+      "assetName": "BOSS_ElecSnail_Ground",
+      "canonicalInternalName": "ElecSnail_Ground",
+      "normalizedName": "ElecSnail_Ground"
+    },
+    {
+      "assetName": "BOSS_FairyDragon",
+      "canonicalInternalName": "FairyDragon",
+      "normalizedName": "FairyDragon"
+    },
+    {
+      "assetName": "BOSS_FairyDragon_Water",
+      "canonicalInternalName": "FairyDragon_Water",
+      "normalizedName": "FairyDragon_Water"
+    },
+    {
+      "assetName": "BOSS_FeatherOstrich",
+      "canonicalInternalName": "FeatherOstrich",
+      "normalizedName": "FeatherOstrich"
+    },
+    {
+      "assetName": "BOSS_FengyunDeeper",
+      "canonicalInternalName": "FengyunDeeper",
+      "normalizedName": "FengyunDeeper"
+    },
+    {
+      "assetName": "BOSS_FengyunDeeper_Electric",
+      "canonicalInternalName": "FengyunDeeper_Electric",
+      "normalizedName": "FengyunDeeper_Electric"
+    },
+    {
+      "assetName": "BOSS_FireKirin",
+      "canonicalInternalName": "FireKirin",
+      "normalizedName": "FireKirin"
+    },
+    {
+      "assetName": "BOSS_FireKirin_Dark",
+      "canonicalInternalName": "FireKirin_Dark",
+      "normalizedName": "FireKirin_Dark"
+    },
+    {
+      "assetName": "BOSS_FlameBambi",
+      "canonicalInternalName": "FlameBambi",
+      "normalizedName": "FlameBambi"
+    },
+    {
+      "assetName": "BOSS_FlameBuffalo",
+      "canonicalInternalName": "FlameBuffalo",
+      "normalizedName": "FlameBuffalo"
+    },
+    {
+      "assetName": "BOSS_FlowerDinosaur",
+      "canonicalInternalName": "FlowerDinosaur",
+      "normalizedName": "FlowerDinosaur"
+    },
+    {
+      "assetName": "BOSS_FlowerDinosaur_Electric",
+      "canonicalInternalName": "FlowerDinosaur_Electric",
+      "normalizedName": "FlowerDinosaur_Electric"
+    },
+    {
+      "assetName": "BOSS_FlowerDoll",
+      "canonicalInternalName": "FlowerDoll",
+      "normalizedName": "FlowerDoll"
+    },
+    {
+      "assetName": "BOSS_FlowerDoll_Fire",
+      "canonicalInternalName": "FlowerDoll_Fire",
+      "normalizedName": "FlowerDoll_Fire"
+    },
+    {
+      "assetName": "BOSS_FlowerPrince",
+      "canonicalInternalName": "FlowerPrince",
+      "normalizedName": "FlowerPrince"
+    },
+    {
+      "assetName": "BOSS_FlowerRabbit",
+      "canonicalInternalName": "FlowerRabbit",
+      "normalizedName": "FlowerRabbit"
+    },
+    {
+      "assetName": "BOSS_FluffyBird",
+      "canonicalInternalName": "FluffyBird",
+      "normalizedName": "FluffyBird"
+    },
+    {
+      "assetName": "BOSS_FlyingManta",
+      "canonicalInternalName": "FlyingManta",
+      "normalizedName": "FlyingManta"
+    },
+    {
+      "assetName": "BOSS_FlyingManta_Thunder",
+      "canonicalInternalName": "FlyingManta_Thunder",
+      "normalizedName": "FlyingManta_Thunder"
+    },
+    {
+      "assetName": "BOSS_FoxExorcist",
+      "canonicalInternalName": "FoxExorcist",
+      "normalizedName": "FoxExorcist"
+    },
+    {
+      "assetName": "BOSS_FoxMage",
+      "canonicalInternalName": "FoxMage",
+      "normalizedName": "FoxMage"
+    },
+    {
+      "assetName": "BOSS_FoxMage_Dark",
+      "canonicalInternalName": "FoxMage_Dark",
+      "normalizedName": "FoxMage_Dark"
+    },
+    {
+      "assetName": "BOSS_Ganesha",
+      "canonicalInternalName": "Ganesha",
+      "normalizedName": "Ganesha"
+    },
+    {
+      "assetName": "BOSS_Garm",
+      "canonicalInternalName": "Garm",
+      "normalizedName": "Garm"
+    },
+    {
+      "assetName": "BOSS_GhostAnglerfish",
+      "canonicalInternalName": "GhostAnglerfish",
+      "normalizedName": "GhostAnglerfish"
+    },
+    {
+      "assetName": "BOSS_GhostAnglerfish_Fire",
+      "canonicalInternalName": "GhostAnglerfish_Fire",
+      "normalizedName": "GhostAnglerfish_Fire"
+    },
+    {
+      "assetName": "BOSS_GhostBeast",
+      "canonicalInternalName": "GhostBeast",
+      "normalizedName": "GhostBeast"
+    },
+    {
+      "assetName": "BOSS_GhostBlackCat",
+      "canonicalInternalName": "GhostBlackCat",
+      "normalizedName": "GhostBlackCat"
+    },
+    {
+      "assetName": "BOSS_GhostDragon",
+      "canonicalInternalName": "GhostDragon",
+      "normalizedName": "GhostDragon"
+    },
+    {
+      "assetName": "BOSS_GhostDragon_Fire",
+      "canonicalInternalName": "GhostDragon_Fire",
+      "normalizedName": "GhostDragon_Fire"
+    },
+    {
+      "assetName": "BOSS_GhostRabbit",
+      "canonicalInternalName": "GhostRabbit",
+      "normalizedName": "GhostRabbit"
+    },
+    {
+      "assetName": "BOSS_GhostRabbit_Grass",
+      "canonicalInternalName": "GhostRabbit_Grass",
+      "normalizedName": "GhostRabbit_Grass"
+    },
+    {
+      "assetName": "BOSS_GoldenHorse",
+      "canonicalInternalName": "GoldenHorse",
+      "normalizedName": "GoldenHorse"
+    },
+    {
+      "assetName": "BOSS_Gorilla",
+      "canonicalInternalName": "Gorilla",
+      "normalizedName": "Gorilla"
+    },
+    {
+      "assetName": "BOSS_Gorilla_Ground",
+      "canonicalInternalName": "Gorilla_Ground",
+      "normalizedName": "Gorilla_Ground"
+    },
+    {
+      "assetName": "BOSS_GrassGolem",
+      "canonicalInternalName": "GrassGolem",
+      "normalizedName": "GrassGolem"
+    },
+    {
+      "assetName": "BOSS_GrassGolem_Dark",
+      "canonicalInternalName": "GrassGolem_Dark",
+      "normalizedName": "GrassGolem_Dark"
+    },
+    {
+      "assetName": "BOSS_GrassMammoth",
+      "canonicalInternalName": "GrassMammoth",
+      "normalizedName": "GrassMammoth"
+    },
+    {
+      "assetName": "BOSS_GrassMammoth_Ice",
+      "canonicalInternalName": "GrassMammoth_Ice",
+      "normalizedName": "GrassMammoth_Ice"
+    },
+    {
+      "assetName": "BOSS_GrassMinotaur",
+      "canonicalInternalName": "GrassMinotaur",
+      "normalizedName": "GrassMinotaur"
+    },
+    {
+      "assetName": "BOSS_GrassMinotaur_Ice",
+      "canonicalInternalName": "GrassMinotaur_Ice",
+      "normalizedName": "GrassMinotaur_Ice"
+    },
+    {
+      "assetName": "BOSS_GrassPanda",
+      "canonicalInternalName": "GrassPanda",
+      "normalizedName": "GrassPanda"
+    },
+    {
+      "assetName": "BOSS_GrassPanda_Electric",
+      "canonicalInternalName": "GrassPanda_Electric",
+      "normalizedName": "GrassPanda_Electric"
+    },
+    {
+      "assetName": "BOSS_GrassRabbitMan",
+      "canonicalInternalName": "GrassRabbitMan",
+      "normalizedName": "GrassRabbitMan"
+    },
+    {
+      "assetName": "BOSS_GrimGirl",
+      "canonicalInternalName": "GrimGirl",
+      "normalizedName": "GrimGirl"
+    },
+    {
+      "assetName": "BOSS_GuardianDog",
+      "canonicalInternalName": "GuardianDog",
+      "normalizedName": "GuardianDog"
+    },
+    {
+      "assetName": "BOSS_HadesBird",
+      "canonicalInternalName": "HadesBird",
+      "normalizedName": "HadesBird"
+    },
+    {
+      "assetName": "BOSS_HadesBird_Electric",
+      "canonicalInternalName": "HadesBird_Electric",
+      "normalizedName": "HadesBird_Electric"
+    },
+    {
+      "assetName": "BOSS_HawkBird",
+      "canonicalInternalName": "HawkBird",
+      "normalizedName": "HawkBird"
+    },
+    {
+      "assetName": "BOSS_Hedgehog",
+      "canonicalInternalName": "Hedgehog",
+      "normalizedName": "Hedgehog"
+    },
+    {
+      "assetName": "BOSS_Hedgehog_Ice",
+      "canonicalInternalName": "Hedgehog_Ice",
+      "normalizedName": "Hedgehog_Ice"
+    },
+    {
+      "assetName": "BOSS_HerculesBeetle",
+      "canonicalInternalName": "HerculesBeetle",
+      "normalizedName": "HerculesBeetle"
+    },
+    {
+      "assetName": "BOSS_HerculesBeetle_Ground",
+      "canonicalInternalName": "HerculesBeetle_Ground",
+      "normalizedName": "HerculesBeetle_Ground"
+    },
+    {
+      "assetName": "BOSS_HoodGhost",
+      "canonicalInternalName": "HoodGhost",
+      "normalizedName": "HoodGhost"
+    },
+    {
+      "assetName": "BOSS_Horus",
+      "canonicalInternalName": "Horus",
+      "normalizedName": "Horus"
+    },
+    {
+      "assetName": "BOSS_Horus_Water",
+      "canonicalInternalName": "Horus_Water",
+      "normalizedName": "Horus_Water"
+    },
+    {
+      "assetName": "BOSS_IceCrocodile",
+      "canonicalInternalName": "IceCrocodile",
+      "normalizedName": "IceCrocodile"
+    },
+    {
+      "assetName": "BOSS_IceDeer",
+      "canonicalInternalName": "IceDeer",
+      "normalizedName": "IceDeer"
+    },
+    {
+      "assetName": "BOSS_IceFox",
+      "canonicalInternalName": "IceFox",
+      "normalizedName": "IceFox"
+    },
+    {
+      "assetName": "BOSS_IceHorse",
+      "canonicalInternalName": "IceHorse",
+      "normalizedName": "IceHorse"
+    },
+    {
+      "assetName": "BOSS_IceHorse_Dark",
+      "canonicalInternalName": "IceHorse_Dark",
+      "normalizedName": "IceHorse_Dark"
+    },
+    {
+      "assetName": "BOSS_IceNarwhal",
+      "canonicalInternalName": "IceNarwhal",
+      "normalizedName": "IceNarwhal"
+    },
+    {
+      "assetName": "BOSS_IceNarwhal_Fire",
+      "canonicalInternalName": "IceNarwhal_Fire",
+      "normalizedName": "IceNarwhal_Fire"
+    },
+    {
+      "assetName": "BOSS_IceSeal",
+      "canonicalInternalName": "IceSeal",
+      "normalizedName": "IceSeal"
+    },
+    {
+      "assetName": "BOSS_IceSeal_Ground",
+      "canonicalInternalName": "IceSeal_Ground",
+      "normalizedName": "IceSeal_Ground"
+    },
+    {
+      "assetName": "BOSS_IceWitch",
+      "canonicalInternalName": "IceWitch",
+      "normalizedName": "IceWitch"
+    },
+    {
+      "assetName": "BOSS_JellyfishFairy",
+      "canonicalInternalName": "JellyfishFairy",
+      "normalizedName": "JellyfishFairy"
+    },
+    {
+      "assetName": "BOSS_JellyfishGhost",
+      "canonicalInternalName": "JellyfishGhost",
+      "normalizedName": "JellyfishGhost"
+    },
+    {
+      "assetName": "BOSS_JetDragon",
+      "canonicalInternalName": "JetDragon",
+      "normalizedName": "JetDragon"
+    },
+    {
+      "assetName": "BOSS_KabukiMan",
+      "canonicalInternalName": "KabukiMan",
+      "normalizedName": "KabukiMan"
+    },
+    {
+      "assetName": "BOSS_Kelpie",
+      "canonicalInternalName": "Kelpie",
+      "normalizedName": "Kelpie"
+    },
+    {
+      "assetName": "BOSS_Kelpie_Fire",
+      "canonicalInternalName": "Kelpie_Fire",
+      "normalizedName": "Kelpie_Fire"
+    },
+    {
+      "assetName": "BOSS_KendoFrog",
+      "canonicalInternalName": "KendoFrog",
+      "normalizedName": "KendoFrog"
+    },
+    {
+      "assetName": "BOSS_KendoFrog_Dark",
+      "canonicalInternalName": "KendoFrog_Dark",
+      "normalizedName": "KendoFrog_Dark"
+    },
+    {
+      "assetName": "BOSS_KingAlpaca",
+      "canonicalInternalName": "KingAlpaca",
+      "normalizedName": "KingAlpaca"
+    },
+    {
+      "assetName": "BOSS_KingAlpaca_Ice",
+      "canonicalInternalName": "KingAlpaca_ice",
+      "normalizedName": "KingAlpaca_Ice"
+    },
+    {
+      "assetName": "BOSS_KingBahamut",
+      "canonicalInternalName": "KingBahamut",
+      "normalizedName": "KingBahamut"
+    },
+    {
+      "assetName": "BOSS_KingBahamut_Dragon",
+      "canonicalInternalName": "KingBahamut_Dragon",
+      "normalizedName": "KingBahamut_Dragon"
+    },
+    {
+      "assetName": "BOSS_KingSunfish",
+      "canonicalInternalName": "KingSunfish",
+      "normalizedName": "KingSunfish"
+    },
+    {
+      "assetName": "BOSS_KingSunfish_Thunder",
+      "canonicalInternalName": "KingSunfish_Thunder",
+      "normalizedName": "KingSunfish_Thunder"
+    },
+    {
+      "assetName": "BOSS_KingWhale",
+      "canonicalInternalName": "KingWhale",
+      "normalizedName": "KingWhale"
+    },
+    {
+      "assetName": "BOSS_KingWhale_otomo",
+      "canonicalInternalName": "KingWhale",
+      "normalizedName": "KingWhale"
+    },
+    {
+      "assetName": "BOSS_Kirin",
+      "canonicalInternalName": "Kirin",
+      "normalizedName": "Kirin"
+    },
+    {
+      "assetName": "BOSS_Kirin_Ice",
+      "canonicalInternalName": "Kirin_ice",
+      "normalizedName": "Kirin_Ice"
+    },
+    {
+      "assetName": "BOSS_Kitsunebi",
+      "canonicalInternalName": "Kitsunebi",
+      "normalizedName": "Kitsunebi"
+    },
+    {
+      "assetName": "BOSS_Kitsunebi_Ice",
+      "canonicalInternalName": "Kitsunebi_Ice",
+      "normalizedName": "Kitsunebi_Ice"
+    },
+    {
+      "assetName": "BOSS_LanternButler",
+      "canonicalInternalName": "LanternButler",
+      "normalizedName": "LanternButler"
+    },
+    {
+      "assetName": "BOSS_LavaGirl",
+      "canonicalInternalName": "LavaGirl",
+      "normalizedName": "LavaGirl"
+    },
+    {
+      "assetName": "BOSS_LazyCatfish",
+      "canonicalInternalName": "LazyCatfish",
+      "normalizedName": "LazyCatfish"
+    },
+    {
+      "assetName": "BOSS_LazyCatfish_Gold",
+      "canonicalInternalName": "LazyCatfish_Gold",
+      "normalizedName": "LazyCatfish_Gold"
+    },
+    {
+      "assetName": "BOSS_LazyDragon",
+      "canonicalInternalName": "LazyDragon",
+      "normalizedName": "LazyDragon"
+    },
+    {
+      "assetName": "BOSS_LazyDragon_Electric",
+      "canonicalInternalName": "LazyDragon_Electric",
+      "normalizedName": "LazyDragon_Electric"
+    },
+    {
+      "assetName": "BOSS_LeafMomonga",
+      "canonicalInternalName": "LeafMomonga",
+      "normalizedName": "LeafMomonga"
+    },
+    {
+      "assetName": "BOSS_LeafPrincess",
+      "canonicalInternalName": "LeafPrincess",
+      "normalizedName": "LeafPrincess"
+    },
+    {
+      "assetName": "BOSS_LegendDeer",
+      "canonicalInternalName": "LegendDeer",
+      "normalizedName": "LegendDeer"
+    },
+    {
+      "assetName": "BOSS_LilyQueen",
+      "canonicalInternalName": "LilyQueen",
+      "normalizedName": "LilyQueen"
+    },
+    {
+      "assetName": "BOSS_LilyQueen_Dark",
+      "canonicalInternalName": "LilyQueen_Dark",
+      "normalizedName": "LilyQueen_Dark"
+    },
+    {
+      "assetName": "BOSS_LittleBriarRose",
+      "canonicalInternalName": "LittleBriarRose",
+      "normalizedName": "LittleBriarRose"
+    },
+    {
+      "assetName": "BOSS_LizardMan",
+      "canonicalInternalName": "LizardMan",
+      "normalizedName": "LizardMan"
+    },
+    {
+      "assetName": "BOSS_LizardMan_Fire",
+      "canonicalInternalName": "LizardMan_Fire",
+      "normalizedName": "LizardMan_Fire"
+    },
+    {
+      "assetName": "BOSS_LongCat",
+      "canonicalInternalName": "LongCat",
+      "normalizedName": "LongCat"
+    },
+    {
+      "assetName": "BOSS_LotusDragon",
+      "canonicalInternalName": "LotusDragon",
+      "normalizedName": "LotusDragon"
+    },
+    {
+      "assetName": "BOSS_Manticore",
+      "canonicalInternalName": "Manticore",
+      "normalizedName": "Manticore"
+    },
+    {
+      "assetName": "BOSS_Manticore_Dark",
+      "canonicalInternalName": "Manticore_Dark",
+      "normalizedName": "Manticore_Dark"
+    },
+    {
+      "assetName": "BOSS_MimicDog",
+      "canonicalInternalName": "MimicDog",
+      "normalizedName": "MimicDog"
+    },
+    {
+      "assetName": "BOSS_Monkey",
+      "canonicalInternalName": "Monkey",
+      "normalizedName": "Monkey"
+    },
+    {
+      "assetName": "BOSS_Monkey_Fire",
+      "canonicalInternalName": "Monkey_Fire",
+      "normalizedName": "Monkey_Fire"
+    },
+    {
+      "assetName": "BOSS_MonochromeQueen",
+      "canonicalInternalName": "MonochromeQueen",
+      "normalizedName": "MonochromeQueen"
+    },
+    {
+      "assetName": "BOSS_MoonChild",
+      "canonicalInternalName": "MoonChild",
+      "normalizedName": "MoonChild"
+    },
+    {
+      "assetName": "BOSS_MoonQueen",
+      "canonicalInternalName": "MoonQueen",
+      "normalizedName": "MoonQueen"
+    },
+    {
+      "assetName": "BOSS_MopBaby",
+      "canonicalInternalName": "MopBaby",
+      "normalizedName": "MopBaby"
+    },
+    {
+      "assetName": "BOSS_MopKing",
+      "canonicalInternalName": "MopKing",
+      "normalizedName": "MopKing"
+    },
+    {
+      "assetName": "BOSS_Mothman",
+      "canonicalInternalName": "Mothman",
+      "normalizedName": "Mothman"
+    },
+    {
+      "assetName": "BOSS_MummyPal",
+      "canonicalInternalName": "MummyPal",
+      "normalizedName": "MummyPal"
+    },
+    {
+      "assetName": "BOSS_MushroomDragon",
+      "canonicalInternalName": "MushroomDragon",
+      "normalizedName": "MushroomDragon"
+    },
+    {
+      "assetName": "BOSS_MushroomDragon_Dark",
+      "canonicalInternalName": "MushroomDragon_Dark",
+      "normalizedName": "MushroomDragon_Dark"
+    },
+    {
+      "assetName": "BOSS_MushroomLady",
+      "canonicalInternalName": "MushroomLady",
+      "normalizedName": "MushroomLady"
+    },
+    {
+      "assetName": "BOSS_Mutant",
+      "canonicalInternalName": "Mutant",
+      "normalizedName": "Mutant"
+    },
+    {
+      "assetName": "BOSS_MysteryMask",
+      "canonicalInternalName": "MysteryMask",
+      "normalizedName": "MysteryMask"
+    },
+    {
+      "assetName": "BOSS_NaughtyCat",
+      "canonicalInternalName": "NaughtyCat",
+      "normalizedName": "NaughtyCat"
+    },
+    {
+      "assetName": "BOSS_NegativeKoala",
+      "canonicalInternalName": "NegativeKoala",
+      "normalizedName": "NegativeKoala"
+    },
+    {
+      "assetName": "BOSS_NegativeOctopus",
+      "canonicalInternalName": "NegativeOctopus",
+      "normalizedName": "NegativeOctopus"
+    },
+    {
+      "assetName": "BOSS_NegativeOctopus_Neutral",
+      "canonicalInternalName": "NegativeOctopus_Neutral",
+      "normalizedName": "NegativeOctopus_Neutral"
+    },
+    {
+      "assetName": "BOSS_NightBlueHorse",
+      "canonicalInternalName": "NightBlueHorse",
+      "normalizedName": "NightBlueHorse"
+    },
+    {
+      "assetName": "BOSS_NightBlueHorse_Neutral",
+      "canonicalInternalName": "NightBlueHorse_Neutral",
+      "normalizedName": "NightBlueHorse_Neutral"
+    },
+    {
+      "assetName": "BOSS_NightFox",
+      "canonicalInternalName": "NightFox",
+      "normalizedName": "NightFox"
+    },
+    {
+      "assetName": "BOSS_NightLady",
+      "canonicalInternalName": "NightLady",
+      "normalizedName": "NightLady"
+    },
+    {
+      "assetName": "BOSS_NightLady_Dark",
+      "canonicalInternalName": "NightLady_Dark",
+      "normalizedName": "NightLady_Dark"
+    },
+    {
+      "assetName": "BOSS_OctopusGirl",
+      "canonicalInternalName": "OctopusGIrl",
+      "normalizedName": "OctopusGirl"
+    },
+    {
+      "assetName": "BOSS_OctopusGirl_Neutral",
+      "canonicalInternalName": "OctopusGirl_Neutral",
+      "normalizedName": "OctopusGirl_Neutral"
+    },
+    {
+      "assetName": "BOSS_OniGhostGirl",
+      "canonicalInternalName": "OniGhostGirl",
+      "normalizedName": "OniGhostGirl"
+    },
+    {
+      "assetName": "BOSS_PandaGirl",
+      "canonicalInternalName": "PandaGirl",
+      "normalizedName": "PandaGirl"
+    },
+    {
+      "assetName": "BOSS_Penguin",
+      "canonicalInternalName": "Penguin",
+      "normalizedName": "Penguin"
+    },
+    {
+      "assetName": "BOSS_Penguin_Electric",
+      "canonicalInternalName": "Penguin_Electric",
+      "normalizedName": "Penguin_Electric"
+    },
+    {
+      "assetName": "BOSS_PinkCat",
+      "canonicalInternalName": "PinkCat",
+      "normalizedName": "PinkCat"
+    },
+    {
+      "assetName": "BOSS_PinkLizard",
+      "canonicalInternalName": "PinkLizard",
+      "normalizedName": "PinkLizard"
+    },
+    {
+      "assetName": "BOSS_PinkRabbit",
+      "canonicalInternalName": "PinkRabbit",
+      "normalizedName": "PinkRabbit"
+    },
+    {
+      "assetName": "BOSS_PinkRabbit_Grass",
+      "canonicalInternalName": "PinkRabbit_Grass",
+      "normalizedName": "PinkRabbit_Grass"
+    },
+    {
+      "assetName": "BOSS_PlantSlime",
+      "canonicalInternalName": "PlantSlime",
+      "normalizedName": "PlantSlime"
+    },
+    {
+      "assetName": "BOSS_Plesiosaur",
+      "canonicalInternalName": "Plesiosaur",
+      "normalizedName": "Plesiosaur"
+    },
+    {
+      "assetName": "BOSS_PoseidonOrca",
+      "canonicalInternalName": "PoseidonOrca",
+      "normalizedName": "PoseidonOrca"
+    },
+    {
+      "assetName": "BOSS_PurpleSpider",
+      "canonicalInternalName": "PurpleSpider",
+      "normalizedName": "PurpleSpider"
+    },
+    {
+      "assetName": "BOSS_QueenBee",
+      "canonicalInternalName": "QueenBee",
+      "normalizedName": "QueenBee"
+    },
+    {
+      "assetName": "BOSS_RaijinDaughter",
+      "canonicalInternalName": "RaijinDaughter",
+      "normalizedName": "RaijinDaughter"
+    },
+    {
+      "assetName": "BOSS_RaijinDaughter_Water",
+      "canonicalInternalName": "RaijinDaughter_Water",
+      "normalizedName": "RaijinDaughter_Water"
+    },
+    {
+      "assetName": "BOSS_RedArmorBird",
+      "canonicalInternalName": "RedArmorBird",
+      "normalizedName": "RedArmorBird"
+    },
+    {
+      "assetName": "BOSS_RedFlowerBird",
+      "canonicalInternalName": "RedFlowerBird",
+      "normalizedName": "RedFlowerBird"
+    },
+    {
+      "assetName": "BOSS_RobinHood",
+      "canonicalInternalName": "RobinHood",
+      "normalizedName": "RobinHood"
+    },
+    {
+      "assetName": "BOSS_RobinHood_Ground",
+      "canonicalInternalName": "RobinHood_Ground",
+      "normalizedName": "RobinHood_Ground"
+    },
+    {
+      "assetName": "BOSS_RockBeast",
+      "canonicalInternalName": "RockBeast",
+      "normalizedName": "RockBeast"
+    },
+    {
+      "assetName": "BOSS_RockBeast_Ice",
+      "canonicalInternalName": "RockBeast_Ice",
+      "normalizedName": "RockBeast_Ice"
+    },
+    {
+      "assetName": "BOSS_Ronin",
+      "canonicalInternalName": "Ronin",
+      "normalizedName": "Ronin"
+    },
+    {
+      "assetName": "BOSS_Ronin_Dark",
+      "canonicalInternalName": "Ronin_Dark",
+      "normalizedName": "Ronin_Dark"
+    },
+    {
+      "assetName": "BOSS_SaintCentaur",
+      "canonicalInternalName": "SaintCentaur",
+      "normalizedName": "SaintCentaur"
+    },
+    {
+      "assetName": "BOSS_SakuraSaurus",
+      "canonicalInternalName": "SakuraSaurus",
+      "normalizedName": "SakuraSaurus"
+    },
+    {
+      "assetName": "BOSS_SakuraSaurus_Water",
+      "canonicalInternalName": "SakuraSaurus_Water",
+      "normalizedName": "SakuraSaurus_Water"
+    },
+    {
+      "assetName": "BOSS_SamuraiDog",
+      "canonicalInternalName": "SamuraiDog",
+      "normalizedName": "SamuraiDog"
+    },
+    {
+      "assetName": "BOSS_ScorpionMan",
+      "canonicalInternalName": "ScorpionMan",
+      "normalizedName": "ScorpionMan"
+    },
+    {
+      "assetName": "BOSS_ScorpionMan_Electric",
+      "canonicalInternalName": "ScorpionMan_Electric",
+      "normalizedName": "ScorpionMan_Electric"
+    },
+    {
+      "assetName": "BOSS_Sekhmet",
+      "canonicalInternalName": "Sekhmet",
+      "normalizedName": "Sekhmet"
+    },
+    {
+      "assetName": "BOSS_Serpent",
+      "canonicalInternalName": "Serpent",
+      "normalizedName": "Serpent"
+    },
+    {
+      "assetName": "BOSS_Serpent_Ground",
+      "canonicalInternalName": "Serpent_Ground",
+      "normalizedName": "Serpent_Ground"
+    },
+    {
+      "assetName": "BOSS_SharkKid",
+      "canonicalInternalName": "SharkKid",
+      "normalizedName": "SharkKid"
+    },
+    {
+      "assetName": "BOSS_SharkKid_Fire",
+      "canonicalInternalName": "SharkKid_Fire",
+      "normalizedName": "SharkKid_Fire"
+    },
+    {
+      "assetName": "BOSS_SheepBall",
+      "canonicalInternalName": "SheepBall",
+      "normalizedName": "SheepBall"
+    },
+    {
+      "assetName": "BOSS_SifuDog",
+      "canonicalInternalName": "SifuDog",
+      "normalizedName": "SifuDog"
+    },
+    {
+      "assetName": "BOSS_SkyDragon",
+      "canonicalInternalName": "SkyDragon",
+      "normalizedName": "SkyDragon"
+    },
+    {
+      "assetName": "BOSS_SkyDragon_Grass",
+      "canonicalInternalName": "SkyDragon_Grass",
+      "normalizedName": "SkyDragon_Grass"
+    },
+    {
+      "assetName": "BOSS_SleeveRabbit",
+      "canonicalInternalName": "SleeveRabbit",
+      "normalizedName": "SleeveRabbit"
+    },
+    {
+      "assetName": "BOSS_SmallArmadillo",
+      "canonicalInternalName": "SmallArmadillo",
+      "normalizedName": "SmallArmadillo"
+    },
+    {
+      "assetName": "BOSS_SmallYeti",
+      "canonicalInternalName": "SmallYeti",
+      "normalizedName": "SmallYeti"
+    },
+    {
+      "assetName": "BOSS_SnakeGirl",
+      "canonicalInternalName": "SnakeGirl",
+      "normalizedName": "SnakeGirl"
+    },
+    {
+      "assetName": "BOSS_SnowPeafowl",
+      "canonicalInternalName": "SnowPeafowl",
+      "normalizedName": "SnowPeafowl"
+    },
+    {
+      "assetName": "BOSS_SnowTigerBeastman",
+      "canonicalInternalName": "SnowTigerBeastMan",
+      "normalizedName": "SnowTigerBeastman"
+    },
+    {
+      "assetName": "BOSS_SoldierBee",
+      "canonicalInternalName": "SoldierBee",
+      "normalizedName": "SoldierBee"
+    },
+    {
+      "assetName": "BOSS_StuffedShark",
+      "canonicalInternalName": "StuffedShark",
+      "normalizedName": "StuffedShark"
+    },
+    {
+      "assetName": "BOSS_StuffedShark_Fire",
+      "canonicalInternalName": "StuffedShark_Fire",
+      "normalizedName": "StuffedShark_Fire"
+    },
+    {
+      "assetName": "BOSS_SumoDog",
+      "canonicalInternalName": "SumoDog",
+      "normalizedName": "SumoDog"
+    },
+    {
+      "assetName": "BOSS_Suzaku",
+      "canonicalInternalName": "Suzaku",
+      "normalizedName": "Suzaku"
+    },
+    {
+      "assetName": "BOSS_Suzaku_Water",
+      "canonicalInternalName": "Suzaku_Water",
+      "normalizedName": "Suzaku_Water"
+    },
+    {
+      "assetName": "BOSS_SweetsSheep",
+      "canonicalInternalName": "SweetsSheep",
+      "normalizedName": "SweetsSheep"
+    },
+    {
+      "assetName": "BOSS_SweetsSheep_Ground",
+      "canonicalInternalName": "SweetsSheep_Ground",
+      "normalizedName": "SweetsSheep_Ground"
+    },
+    {
+      "assetName": "BOSS_SwordCutlassfish",
+      "canonicalInternalName": "SwordCutlassFish",
+      "normalizedName": "SwordCutlassfish"
+    },
+    {
+      "assetName": "BOSS_SwordCutlassfish_Fire",
+      "canonicalInternalName": "SwordCutlassFish_Fire",
+      "normalizedName": "SwordCutlassfish_Fire"
+    },
+    {
+      "assetName": "BOSS_TentacleTurtle",
+      "canonicalInternalName": "TentacleTurtle",
+      "normalizedName": "TentacleTurtle"
+    },
+    {
+      "assetName": "BOSS_TentacleTurtle_Ground",
+      "canonicalInternalName": "TentacleTurtle_Ground",
+      "normalizedName": "TentacleTurtle_Ground"
+    },
+    {
+      "assetName": "BOSS_ThiefBird",
+      "canonicalInternalName": "ThiefBird",
+      "normalizedName": "ThiefBird"
+    },
+    {
+      "assetName": "BOSS_ThunderBird",
+      "canonicalInternalName": "ThunderBird",
+      "normalizedName": "ThunderBird"
+    },
+    {
+      "assetName": "BOSS_ThunderBird_Ice",
+      "canonicalInternalName": "ThunderBird_Ice",
+      "normalizedName": "ThunderBird_Ice"
+    },
+    {
+      "assetName": "BOSS_ThunderDog",
+      "canonicalInternalName": "ThunderDog",
+      "normalizedName": "ThunderDog"
+    },
+    {
+      "assetName": "BOSS_ThunderDog_Ice",
+      "canonicalInternalName": "ThunderDog_Ice",
+      "normalizedName": "ThunderDog_Ice"
+    },
+    {
+      "assetName": "BOSS_ThunderDragonMan",
+      "canonicalInternalName": "ThunderDragonMan",
+      "normalizedName": "ThunderDragonMan"
+    },
+    {
+      "assetName": "BOSS_ThunderFluffyBird",
+      "canonicalInternalName": "ThunderFluffyBird",
+      "normalizedName": "ThunderFluffyBird"
+    },
+    {
+      "assetName": "BOSS_TropicalOstrich",
+      "canonicalInternalName": "TropicalOstrich",
+      "normalizedName": "TropicalOstrich"
+    },
+    {
+      "assetName": "BOSS_Umihebi",
+      "canonicalInternalName": "Umihebi",
+      "normalizedName": "Umihebi"
+    },
+    {
+      "assetName": "BOSS_Umihebi_Fire",
+      "canonicalInternalName": "Umihebi_Fire",
+      "normalizedName": "Umihebi_Fire"
+    },
+    {
+      "assetName": "BOSS_VenusFlytrap",
+      "canonicalInternalName": "VenusFlytrap",
+      "normalizedName": "VenusFlytrap"
+    },
+    {
+      "assetName": "BOSS_VioletFairy",
+      "canonicalInternalName": "VioletFairy",
+      "normalizedName": "VioletFairy"
+    },
+    {
+      "assetName": "BOSS_VolcanicMonster",
+      "canonicalInternalName": "Volcanicmonster",
+      "normalizedName": "VolcanicMonster"
+    },
+    {
+      "assetName": "BOSS_VolcanicMonster_Ice",
+      "canonicalInternalName": "VolcanicMonster_Ice",
+      "normalizedName": "VolcanicMonster_Ice"
+    },
+    {
+      "assetName": "BOSS_VolcanoDragon",
+      "canonicalInternalName": "VolcanoDragon",
+      "normalizedName": "VolcanoDragon"
+    },
+    {
+      "assetName": "BOSS_VolcanoDragon_Ice",
+      "canonicalInternalName": "VolcanoDragon_Ice",
+      "normalizedName": "VolcanoDragon_Ice"
+    },
+    {
+      "assetName": "BOSS_WeaselDragon",
+      "canonicalInternalName": "WeaselDragon",
+      "normalizedName": "WeaselDragon"
+    },
+    {
+      "assetName": "BOSS_WeaselDragon_Fire",
+      "canonicalInternalName": "WeaselDragon_Fire",
+      "normalizedName": "WeaselDragon_Fire"
+    },
+    {
+      "assetName": "BOSS_Werewolf",
+      "canonicalInternalName": "Werewolf",
+      "normalizedName": "Werewolf"
+    },
+    {
+      "assetName": "BOSS_Werewolf_Ice",
+      "canonicalInternalName": "Werewolf_Ice",
+      "normalizedName": "Werewolf_Ice"
+    },
+    {
+      "assetName": "BOSS_WhiteAlienDragon",
+      "canonicalInternalName": "WhiteAlienDragon",
+      "normalizedName": "WhiteAlienDragon"
+    },
+    {
+      "assetName": "BOSS_WhiteDeer",
+      "canonicalInternalName": "WhiteDeer",
+      "normalizedName": "WhiteDeer"
+    },
+    {
+      "assetName": "BOSS_WhiteDeer_Dark",
+      "canonicalInternalName": "WhiteDeer_Dark",
+      "normalizedName": "WhiteDeer_Dark"
+    },
+    {
+      "assetName": "BOSS_WhiteMoth",
+      "canonicalInternalName": "WhiteMoth",
+      "normalizedName": "WhiteMoth"
+    },
+    {
+      "assetName": "BOSS_WhiteMoth_Neutral",
+      "canonicalInternalName": "WhiteMoth_Neutral",
+      "normalizedName": "WhiteMoth_Neutral"
+    },
+    {
+      "assetName": "BOSS_WhiteShieldDragon",
+      "canonicalInternalName": "WhiteShieldDragon",
+      "normalizedName": "WhiteShieldDragon"
+    },
+    {
+      "assetName": "BOSS_WhiteTiger",
+      "canonicalInternalName": "WhiteTiger",
+      "normalizedName": "WhiteTiger"
+    },
+    {
+      "assetName": "BOSS_WhiteTiger_Ground",
+      "canonicalInternalName": "WhiteTiger_Ground",
+      "normalizedName": "WhiteTiger_Ground"
+    },
+    {
+      "assetName": "BOSS_WindChimes",
+      "canonicalInternalName": "WindChimes",
+      "normalizedName": "WindChimes"
+    },
+    {
+      "assetName": "BOSS_WindChimes_Ice",
+      "canonicalInternalName": "WindChimes_Ice",
+      "normalizedName": "WindChimes_Ice"
+    },
+    {
+      "assetName": "BOSS_WingGolem",
+      "canonicalInternalName": "WingGolem",
+      "normalizedName": "WingGolem"
+    },
+    {
+      "assetName": "BOSS_WingGolem_Fire",
+      "canonicalInternalName": "WingGolem_Fire",
+      "normalizedName": "WingGolem_Fire"
+    },
+    {
+      "assetName": "BOSS_WizardOwl",
+      "canonicalInternalName": "WizardOwl",
+      "normalizedName": "WizardOwl"
+    },
+    {
+      "assetName": "BOSS_WoolFox",
+      "canonicalInternalName": "WoolFox",
+      "normalizedName": "WoolFox"
+    },
+    {
+      "assetName": "BOSS_WorldTreeDragon",
+      "canonicalInternalName": "WorldTreeDragon",
+      "normalizedName": "WorldTreeDragon"
+    },
+    {
+      "assetName": "BOSS_Yeti",
+      "canonicalInternalName": "Yeti",
+      "normalizedName": "Yeti"
+    },
+    {
+      "assetName": "BOSS_Yeti_Grass",
+      "canonicalInternalName": "Yeti_Grass",
+      "normalizedName": "Yeti_Grass"
+    },
+    {
+      "assetName": "GYM_BlackGriffon",
+      "canonicalInternalName": "BlackGriffon",
+      "normalizedName": "BlackGriffon"
+    },
+    {
+      "assetName": "GYM_BlackGriffon_2",
+      "canonicalInternalName": "BlackGriffon",
+      "normalizedName": "BlackGriffon"
+    },
+    {
+      "assetName": "GYM_BlackGriffon_2_Avatar",
+      "canonicalInternalName": "BlackGriffon",
+      "normalizedName": "BlackGriffon"
+    },
+    {
+      "assetName": "GYM_BlueSkyDragon",
+      "canonicalInternalName": "BlueSkyDragon",
+      "normalizedName": "BlueSkyDragon"
+    },
+    {
+      "assetName": "GYM_BlueSkyDragon_2",
+      "canonicalInternalName": "BlueSkyDragon",
+      "normalizedName": "BlueSkyDragon"
+    },
+    {
+      "assetName": "GYM_ElecPanda",
+      "canonicalInternalName": "ElecPanda",
+      "normalizedName": "ElecPanda"
+    },
+    {
+      "assetName": "GYM_ElecPanda_2",
+      "canonicalInternalName": "ElecPanda",
+      "normalizedName": "ElecPanda"
+    },
+    {
+      "assetName": "GYM_Horus",
+      "canonicalInternalName": "Horus",
+      "normalizedName": "Horus"
+    },
+    {
+      "assetName": "GYM_Horus_2",
+      "canonicalInternalName": "Horus",
+      "normalizedName": "Horus"
+    },
+    {
+      "assetName": "GYM_LilyQueen",
+      "canonicalInternalName": "LilyQueen",
+      "normalizedName": "LilyQueen"
+    },
+    {
+      "assetName": "GYM_LilyQueen_2",
+      "canonicalInternalName": "LilyQueen",
+      "normalizedName": "LilyQueen"
+    },
+    {
+      "assetName": "GYM_MoonQueen",
+      "canonicalInternalName": "MoonQueen",
+      "normalizedName": "MoonQueen"
+    },
+    {
+      "assetName": "GYM_MoonQueen_2",
+      "canonicalInternalName": "MoonQueen",
+      "normalizedName": "MoonQueen"
+    },
+    {
+      "assetName": "GYM_SnowTigerBeastman",
+      "canonicalInternalName": "SnowTigerBeastMan",
+      "normalizedName": "SnowTigerBeastman"
+    },
+    {
+      "assetName": "GYM_SnowTigerBeastman_2",
+      "canonicalInternalName": "SnowTigerBeastMan",
+      "normalizedName": "SnowTigerBeastman"
+    },
+    {
+      "assetName": "GYM_ThunderDragonMan",
+      "canonicalInternalName": "ThunderDragonMan",
+      "normalizedName": "ThunderDragonMan"
+    },
+    {
+      "assetName": "GYM_ThunderDragonMan_2",
+      "canonicalInternalName": "ThunderDragonMan",
+      "normalizedName": "ThunderDragonMan"
+    },
+    {
+      "assetName": "GYM_WorldTreeDragon",
+      "canonicalInternalName": "WorldTreeDragon",
+      "normalizedName": "WorldTreeDragon"
+    },
+    {
+      "assetName": "GYM_WorldTreeDragon_2",
+      "canonicalInternalName": "WorldTreeDragon",
+      "normalizedName": "WorldTreeDragon"
+    },
+    {
+      "assetName": "PREDATOR_AmaterasuWolf",
+      "canonicalInternalName": "AmaterasuWolf",
+      "normalizedName": "AmaterasuWolf"
+    },
+    {
+      "assetName": "PREDATOR_Baphomet_Dark",
+      "canonicalInternalName": "Baphomet_Dark",
+      "normalizedName": "Baphomet_Dark"
+    },
+    {
+      "assetName": "PREDATOR_BirdDragon",
+      "canonicalInternalName": "BirdDragon",
+      "normalizedName": "BirdDragon"
+    },
+    {
+      "assetName": "PREDATOR_CandleGhost",
+      "canonicalInternalName": "CandleGhost",
+      "normalizedName": "CandleGhost"
+    },
+    {
+      "assetName": "PREDATOR_DarkScorpion",
+      "canonicalInternalName": "DarkScorpion",
+      "normalizedName": "DarkScorpion"
+    },
+    {
+      "assetName": "PREDATOR_DrillGame",
+      "canonicalInternalName": "DrillGame",
+      "normalizedName": "DrillGame"
+    },
+    {
+      "assetName": "PREDATOR_FairyDragon",
+      "canonicalInternalName": "FairyDragon",
+      "normalizedName": "FairyDragon"
+    },
+    {
+      "assetName": "PREDATOR_FeatherOstrich",
+      "canonicalInternalName": "FeatherOstrich",
+      "normalizedName": "FeatherOstrich"
+    },
+    {
+      "assetName": "PREDATOR_FlowerDinosaur",
+      "canonicalInternalName": "FlowerDinosaur",
+      "normalizedName": "FlowerDinosaur"
+    },
+    {
+      "assetName": "PREDATOR_FlowerRabbit_Quest",
+      "canonicalInternalName": "FlowerRabbit",
+      "normalizedName": "FlowerRabbit"
+    },
+    {
+      "assetName": "PREDATOR_Garm",
+      "canonicalInternalName": "Garm",
+      "normalizedName": "Garm"
+    },
+    {
+      "assetName": "PREDATOR_Garm_Quest",
+      "canonicalInternalName": "Garm",
+      "normalizedName": "Garm"
+    },
+    {
+      "assetName": "PREDATOR_GhostBeast",
+      "canonicalInternalName": "GhostBeast",
+      "normalizedName": "GhostBeast"
+    },
+    {
+      "assetName": "PREDATOR_GoldenHorse",
+      "canonicalInternalName": "GoldenHorse",
+      "normalizedName": "GoldenHorse"
+    },
+    {
+      "assetName": "PREDATOR_Gorilla",
+      "canonicalInternalName": "Gorilla",
+      "normalizedName": "Gorilla"
+    },
+    {
+      "assetName": "PREDATOR_GrassMammoth_Ice",
+      "canonicalInternalName": "GrassMammoth_Ice",
+      "normalizedName": "GrassMammoth_Ice"
+    },
+    {
+      "assetName": "PREDATOR_GrassMinotaur_Ice",
+      "canonicalInternalName": "GrassMinotaur_Ice",
+      "normalizedName": "GrassMinotaur_Ice"
+    },
+    {
+      "assetName": "PREDATOR_GrassPanda",
+      "canonicalInternalName": "GrassPanda",
+      "normalizedName": "GrassPanda"
+    },
+    {
+      "assetName": "PREDATOR_GrimGirl",
+      "canonicalInternalName": "GrimGirl",
+      "normalizedName": "GrimGirl"
+    },
+    {
+      "assetName": "PREDATOR_HadesBird_Electric",
+      "canonicalInternalName": "HadesBird_Electric",
+      "normalizedName": "HadesBird_Electric"
+    },
+    {
+      "assetName": "PREDATOR_Horus_Water",
+      "canonicalInternalName": "Horus_Water",
+      "normalizedName": "Horus_Water"
+    },
+    {
+      "assetName": "PREDATOR_LazyDragon",
+      "canonicalInternalName": "LazyDragon",
+      "normalizedName": "LazyDragon"
+    },
+    {
+      "assetName": "PREDATOR_Manticore_Dark",
+      "canonicalInternalName": "Manticore_Dark",
+      "normalizedName": "Manticore_Dark"
+    },
+    {
+      "assetName": "PREDATOR_MonochromeQueen",
+      "canonicalInternalName": "MonochromeQueen",
+      "normalizedName": "MonochromeQueen"
+    },
+    {
+      "assetName": "PREDATOR_MummyPal",
+      "canonicalInternalName": "MummyPal",
+      "normalizedName": "MummyPal"
+    },
+    {
+      "assetName": "PREDATOR_MushroomDragon",
+      "canonicalInternalName": "MushroomDragon",
+      "normalizedName": "MushroomDragon"
+    },
+    {
+      "assetName": "PREDATOR_MysteryMask",
+      "canonicalInternalName": "MysteryMask",
+      "normalizedName": "MysteryMask"
+    },
+    {
+      "assetName": "PREDATOR_NightBlueHorse",
+      "canonicalInternalName": "NightBlueHorse",
+      "normalizedName": "NightBlueHorse"
+    },
+    {
+      "assetName": "PREDATOR_PandaGirl",
+      "canonicalInternalName": "PandaGirl",
+      "normalizedName": "PandaGirl"
+    },
+    {
+      "assetName": "PREDATOR_PinkLizard",
+      "canonicalInternalName": "PinkLizard",
+      "normalizedName": "PinkLizard"
+    },
+    {
+      "assetName": "PREDATOR_PinkLizard_Quest",
+      "canonicalInternalName": "PinkLizard",
+      "normalizedName": "PinkLizard"
+    },
+    {
+      "assetName": "PREDATOR_PurpleSpider",
+      "canonicalInternalName": "PurpleSpider",
+      "normalizedName": "PurpleSpider"
+    },
+    {
+      "assetName": "PREDATOR_RedArmorBird",
+      "canonicalInternalName": "RedArmorBird",
+      "normalizedName": "RedArmorBird"
+    },
+    {
+      "assetName": "PREDATOR_RedFlowerBird",
+      "canonicalInternalName": "RedFlowerBird",
+      "normalizedName": "RedFlowerBird"
+    },
+    {
+      "assetName": "PREDATOR_Ronin_Dark",
+      "canonicalInternalName": "Ronin_Dark",
+      "normalizedName": "Ronin_Dark"
+    },
+    {
+      "assetName": "PREDATOR_ScorpionMan",
+      "canonicalInternalName": "ScorpionMan",
+      "normalizedName": "ScorpionMan"
+    },
+    {
+      "assetName": "PREDATOR_SifuDog",
+      "canonicalInternalName": "SifuDog",
+      "normalizedName": "SifuDog"
+    },
+    {
+      "assetName": "PREDATOR_SnakeGirl",
+      "canonicalInternalName": "SnakeGirl",
+      "normalizedName": "SnakeGirl"
+    },
+    {
+      "assetName": "PREDATOR_Suzaku",
+      "canonicalInternalName": "Suzaku",
+      "normalizedName": "Suzaku"
+    },
+    {
+      "assetName": "PREDATOR_ThunderDog",
+      "canonicalInternalName": "ThunderDog",
+      "normalizedName": "ThunderDog"
+    },
+    {
+      "assetName": "PREDATOR_Umihebi_Fire",
+      "canonicalInternalName": "Umihebi_Fire",
+      "normalizedName": "Umihebi_Fire"
+    },
+    {
+      "assetName": "PREDATOR_Umihebi_Fire_Quest",
+      "canonicalInternalName": "Umihebi_Fire",
+      "normalizedName": "Umihebi_Fire"
+    },
+    {
+      "assetName": "PREDATOR_VolcanicMonster_Ice",
+      "canonicalInternalName": "VolcanicMonster_Ice",
+      "normalizedName": "VolcanicMonster_Ice"
+    },
+    {
+      "assetName": "PREDATOR_VolcanoDragon",
+      "canonicalInternalName": "VolcanoDragon",
+      "normalizedName": "VolcanoDragon"
+    },
+    {
+      "assetName": "PREDATOR_Werewolf_Ice",
+      "canonicalInternalName": "Werewolf_Ice",
+      "normalizedName": "Werewolf_Ice"
+    },
+    {
+      "assetName": "PREDATOR_WhiteShieldDragon_Quest",
+      "canonicalInternalName": "WhiteShieldDragon",
+      "normalizedName": "WhiteShieldDragon"
+    },
+    {
+      "assetName": "PREDATOR_WhiteTiger_Ground",
+      "canonicalInternalName": "WhiteTiger_Ground",
+      "normalizedName": "WhiteTiger_Ground"
+    },
+    {
+      "assetName": "PREDATOR_Yeti",
+      "canonicalInternalName": "Yeti",
+      "normalizedName": "Yeti"
+    },
+    {
+      "assetName": "RAID_DarkMechaDragon",
+      "canonicalInternalName": "DarkMechaDragon",
+      "normalizedName": "DarkMechaDragon"
+    },
+    {
+      "assetName": "RAID_DarkMechaDragon_2",
+      "canonicalInternalName": "DarkMechaDragon",
+      "normalizedName": "DarkMechaDragon"
+    },
+    {
+      "assetName": "RAID_KingBahamut_Dragon",
+      "canonicalInternalName": "KingBahamut_Dragon",
+      "normalizedName": "KingBahamut_Dragon"
+    },
+    {
+      "assetName": "RAID_KingBahamut_Dragon_2",
+      "canonicalInternalName": "KingBahamut_Dragon",
+      "normalizedName": "KingBahamut_Dragon"
+    },
+    {
+      "assetName": "RAID_LegendDeer",
+      "canonicalInternalName": "LegendDeer",
+      "normalizedName": "LegendDeer"
+    },
+    {
+      "assetName": "RAID_LegendDeer_2",
+      "canonicalInternalName": "LegendDeer",
+      "normalizedName": "LegendDeer"
+    },
+    {
+      "assetName": "RAID_NightLady",
+      "canonicalInternalName": "NightLady",
+      "normalizedName": "NightLady"
+    },
+    {
+      "assetName": "RAID_NightLady_Dark",
+      "canonicalInternalName": "NightLady_Dark",
+      "normalizedName": "NightLady_Dark"
+    },
+    {
+      "assetName": "RAID_NightLady_Dark_2",
+      "canonicalInternalName": "NightLady_Dark",
+      "normalizedName": "NightLady_Dark"
+    }
+  ],
+  "subspeciesSuffixInferences": [
+    {
+      "baseAsset": "AmaterasuWolf",
+      "variantAsset": "AmaterasuWolf_Dark",
+      "paldex": 111
+    },
+    { "baseAsset": "Baphomet", "variantAsset": "Baphomet_Dark", "paldex": 91 },
+    { "baseAsset": "Bastet", "variantAsset": "Bastet_Ice", "paldex": 27 },
+    {
+      "baseAsset": "BerryGoat",
+      "variantAsset": "BerryGoat_Dark",
+      "paldex": 34
+    },
+    {
+      "baseAsset": "BirdDragon",
+      "variantAsset": "BirdDragon_Ice",
+      "paldex": 64
+    },
+    {
+      "baseAsset": "BlackPuppy",
+      "variantAsset": "BlackPuppy_Ice",
+      "paldex": 149
+    },
+    {
+      "baseAsset": "BlueDragon",
+      "variantAsset": "BlueDragon_Ice",
+      "paldex": 41
+    },
+    {
+      "baseAsset": "Blueplatypus",
+      "variantAsset": "BluePlatypus_Fire",
+      "paldex": 5
+    },
+    {
+      "baseAsset": "CactusDoll",
+      "variantAsset": "CactusDoll_Dark",
+      "paldex": 100
+    },
+    {
+      "baseAsset": "CaptainPenguin",
+      "variantAsset": "CaptainPenguin_Black",
+      "paldex": 18
+    },
+    { "baseAsset": "CatMage", "variantAsset": "CatMage_Fire", "paldex": 79 },
+    {
+      "baseAsset": "CubeTurtle",
+      "variantAsset": "CubeTurtle_Neutral",
+      "paldex": 142
+    },
+    {
+      "baseAsset": "DarkScorpion",
+      "variantAsset": "DarkScorpion_Ground",
+      "paldex": 99
+    },
+    { "baseAsset": "Deer", "variantAsset": "Deer_Ground", "paldex": 32 },
+    {
+      "baseAsset": "ElecSnail",
+      "variantAsset": "ElecSnail_Ground",
+      "paldex": 163
+    },
+    {
+      "baseAsset": "FairyDragon",
+      "variantAsset": "FairyDragon_Water",
+      "paldex": 63
+    },
+    {
+      "baseAsset": "FengyunDeeper",
+      "variantAsset": "FengyunDeeper_Electric",
+      "paldex": 83
+    },
+    {
+      "baseAsset": "FireKirin",
+      "variantAsset": "FireKirin_Dark",
+      "paldex": 93
+    },
+    {
+      "baseAsset": "FlowerDinosaur",
+      "variantAsset": "FlowerDinosaur_Electric",
+      "paldex": 84
+    },
+    {
+      "baseAsset": "FlowerDoll",
+      "variantAsset": "FlowerDoll_Fire",
+      "paldex": 89
+    },
+    {
+      "baseAsset": "FlyingManta",
+      "variantAsset": "FlyingManta_Thunder",
+      "paldex": 7
+    },
+    { "baseAsset": "FoxMage", "variantAsset": "FoxMage_Dark", "paldex": 78 },
+    {
+      "baseAsset": "GhostAnglerfish",
+      "variantAsset": "GhostAnglerfish_Fire",
+      "paldex": 97
+    },
+    {
+      "baseAsset": "GhostDragon",
+      "variantAsset": "GhostDragon_Fire",
+      "paldex": 171
+    },
+    {
+      "baseAsset": "GhostRabbit",
+      "variantAsset": "GhostRabbit_Grass",
+      "paldex": 148
+    },
+    { "baseAsset": "Gorilla", "variantAsset": "Gorilla_Ground", "paldex": 74 },
+    {
+      "baseAsset": "GrassGolem",
+      "variantAsset": "GrassGolem_Dark",
+      "paldex": 138
+    },
+    {
+      "baseAsset": "GrassMammoth",
+      "variantAsset": "GrassMammoth_Ice",
+      "paldex": 87
+    },
+    {
+      "baseAsset": "GrassMinotaur",
+      "variantAsset": "GrassMinotaur_Ice",
+      "paldex": 81
+    },
+    {
+      "baseAsset": "GrassPanda",
+      "variantAsset": "GrassPanda_Electric",
+      "paldex": 102
+    },
+    {
+      "baseAsset": "HadesBird",
+      "variantAsset": "HadesBird_Electric",
+      "paldex": 80
+    },
+    { "baseAsset": "Hedgehog", "variantAsset": "Hedgehog_Ice", "paldex": 15 },
+    {
+      "baseAsset": "HerculesBeetle",
+      "variantAsset": "HerculesBeetle_Ground",
+      "paldex": 113
+    },
+    { "baseAsset": "Horus", "variantAsset": "Horus_Water", "paldex": 188 },
+    { "baseAsset": "IceHorse", "variantAsset": "IceHorse_Dark", "paldex": 200 },
+    {
+      "baseAsset": "IceNarwhal",
+      "variantAsset": "IceNarwhal_Fire",
+      "paldex": 151
+    },
+    { "baseAsset": "IceSeal", "variantAsset": "IceSeal_Ground", "paldex": 72 },
+    { "baseAsset": "Kelpie", "variantAsset": "Kelpie_Fire", "paldex": 43 },
+    { "baseAsset": "KendoFrog", "variantAsset": "KendoFrog_Dark", "paldex": 9 },
+    {
+      "baseAsset": "KingAlpaca",
+      "variantAsset": "KingAlpaca_ice",
+      "paldex": 21
+    },
+    {
+      "baseAsset": "KingBahamut",
+      "variantAsset": "KingBahamut_Dragon",
+      "paldex": 137
+    },
+    {
+      "baseAsset": "KingSunfish",
+      "variantAsset": "KingSunfish_Thunder",
+      "paldex": 169
+    },
+    { "baseAsset": "Kirin", "variantAsset": "Kirin_ice", "paldex": 54 },
+    { "baseAsset": "Kitsunebi", "variantAsset": "Kitsunebi_Ice", "paldex": 29 },
+    {
+      "baseAsset": "LazyCatfish",
+      "variantAsset": "LazyCatfish_Gold",
+      "paldex": 109
+    },
+    {
+      "baseAsset": "LazyDragon",
+      "variantAsset": "LazyDragon_Electric",
+      "paldex": 94
+    },
+    {
+      "baseAsset": "LilyQueen",
+      "variantAsset": "LilyQueen_Dark",
+      "paldex": 186
+    },
+    {
+      "baseAsset": "LizardMan",
+      "variantAsset": "LizardMan_Fire",
+      "paldex": 73
+    },
+    {
+      "baseAsset": "Manticore",
+      "variantAsset": "Manticore_Dark",
+      "paldex": 112
+    },
+    { "baseAsset": "Monkey", "variantAsset": "Monkey_Fire", "paldex": 23 },
+    {
+      "baseAsset": "MushroomDragon",
+      "variantAsset": "MushroomDragon_Dark",
+      "paldex": 118
+    },
+    {
+      "baseAsset": "NegativeOctopus",
+      "variantAsset": "NegativeOctopus_Neutral",
+      "paldex": 30
+    },
+    {
+      "baseAsset": "NightBlueHorse",
+      "variantAsset": "NightBlueHorse_Neutral",
+      "paldex": 130
+    },
+    {
+      "baseAsset": "NightLady",
+      "variantAsset": "NightLady_Dark",
+      "paldex": 195
+    },
+    {
+      "baseAsset": "OctopusGIrl",
+      "variantAsset": "OctopusGirl_Neutral",
+      "paldex": 48
+    },
+    {
+      "baseAsset": "Penguin",
+      "variantAsset": "Penguin_Electric",
+      "paldex": 17
+    },
+    {
+      "baseAsset": "PinkRabbit",
+      "variantAsset": "PinkRabbit_Grass",
+      "paldex": 44
+    },
+    {
+      "baseAsset": "RaijinDaughter",
+      "variantAsset": "RaijinDaughter_Water",
+      "paldex": 92
+    },
+    {
+      "baseAsset": "RobinHood",
+      "variantAsset": "RobinHood_Ground",
+      "paldex": 76
+    },
+    {
+      "baseAsset": "RockBeast",
+      "variantAsset": "RockBeast_Ice",
+      "paldex": 131
+    },
+    { "baseAsset": "Ronin", "variantAsset": "Ronin_Dark", "paldex": 85 },
+    {
+      "baseAsset": "SakuraSaurus",
+      "variantAsset": "SakuraSaurus_Water",
+      "paldex": 108
+    },
+    {
+      "baseAsset": "ScorpionMan",
+      "variantAsset": "ScorpionMan_Electric",
+      "paldex": 141
+    },
+    { "baseAsset": "Serpent", "variantAsset": "Serpent_Ground", "paldex": 75 },
+    { "baseAsset": "SharkKid", "variantAsset": "SharkKid_Fire", "paldex": 55 },
+    {
+      "baseAsset": "SkyDragon",
+      "variantAsset": "SkyDragon_Grass",
+      "paldex": 124
+    },
+    {
+      "baseAsset": "StuffedShark",
+      "variantAsset": "StuffedShark_Fire",
+      "paldex": 88
+    },
+    { "baseAsset": "Suzaku", "variantAsset": "Suzaku_Water", "paldex": 122 },
+    {
+      "baseAsset": "SweetsSheep",
+      "variantAsset": "SweetsSheep_Ground",
+      "paldex": 39
+    },
+    {
+      "baseAsset": "SwordCutlassFish",
+      "variantAsset": "SwordCutlassFish_Fire",
+      "paldex": 128
+    },
+    {
+      "baseAsset": "TentacleTurtle",
+      "variantAsset": "TentacleTurtle_Ground",
+      "paldex": 37
+    },
+    {
+      "baseAsset": "ThunderBird",
+      "variantAsset": "ThunderBird_Ice",
+      "paldex": 96
+    },
+    {
+      "baseAsset": "ThunderDog",
+      "variantAsset": "ThunderDog_Ice",
+      "paldex": 98
+    },
+    { "baseAsset": "Umihebi", "variantAsset": "Umihebi_Fire", "paldex": 121 },
+    {
+      "baseAsset": "Volcanicmonster",
+      "variantAsset": "VolcanicMonster_Ice",
+      "paldex": 129
+    },
+    {
+      "baseAsset": "VolcanoDragon",
+      "variantAsset": "VolcanoDragon_Ice",
+      "paldex": 105
+    },
+    {
+      "baseAsset": "WeaselDragon",
+      "variantAsset": "WeaselDragon_Fire",
+      "paldex": 103
+    },
+    { "baseAsset": "Werewolf", "variantAsset": "Werewolf_Ice", "paldex": 56 },
+    {
+      "baseAsset": "WhiteDeer",
+      "variantAsset": "WhiteDeer_Dark",
+      "paldex": 157
+    },
+    {
+      "baseAsset": "WhiteMoth",
+      "variantAsset": "WhiteMoth_Neutral",
+      "paldex": 116
+    },
+    {
+      "baseAsset": "WhiteTiger",
+      "variantAsset": "WhiteTiger_Ground",
+      "paldex": 132
+    },
+    {
+      "baseAsset": "WindChimes",
+      "variantAsset": "WindChimes_Ice",
+      "paldex": 38
+    },
+    {
+      "baseAsset": "WingGolem",
+      "variantAsset": "WingGolem_Fire",
+      "paldex": 159
+    },
+    { "baseAsset": "Yeti", "variantAsset": "Yeti_Grass", "paldex": 134 }
+  ],
+  "warnings": []
+}
