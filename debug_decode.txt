@@ -1,0 +1,10 @@
+level top-level keys: ['_decode_error']
+level_meta top-level keys: ['_decode_error']
+properties keys: []
+worldSaveData keys: []
+level _decode_error: Oodle DLL (oo2core_*.dll) could not be found.
+Place oo2core_9_win64.dll in the application directory, or
+provide an explicit path via the OODLE_DLL_PATH environment variable.
+level_meta _decode_error: Oodle DLL (oo2core_*.dll) could not be found.
+Place oo2core_9_win64.dll in the application directory, or
+provide an explicit path via the OODLE_DLL_PATH environment variable.

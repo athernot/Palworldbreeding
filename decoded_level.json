@@ -1,0 +1,3 @@
+{
+  "_decode_error": "Oodle DLL (oo2core_*.dll) could not be found.\nPlace oo2core_9_win64.dll in the application directory, or\nprovide an explicit path via the OODLE_DLL_PATH environment variable."
+}

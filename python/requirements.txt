@@ -1,0 +1,11 @@
+# Python 3.13 required — palooz binary is ABI-locked to cp313-win_amd64.
+#
+# Setup steps:
+#   1. Install Python 3.13 from https://www.python.org/downloads/
+#   2. pip install <repo>/src/palsav --no-deps
+#      (from deafdudecomputers/PalworldSaveTools)
+#   3. Copy palooz.cp313-win_amd64.pyd from the standalone release archive
+#      into: <site-packages>/palsav/lib/windows/
+#   4. pip install orjson  (required by palsav at runtime)
+palsav-flex==0.2.0
+orjson>=3.11.8
